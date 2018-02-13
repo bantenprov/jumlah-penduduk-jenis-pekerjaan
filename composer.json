@@ -1,0 +1,29 @@
+{
+    "name": "bantenprov/jumlah-penduduk-golongan-darah",
+    "description": "Jumlah penduduk berdasarkan golongan darah per desa/kelurahan",
+    "authors": [
+        {
+            "name": "bantenprov",
+            "email": "developer.bantenprov@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "support": {
+      "source": "https://github.com/bantenprov/jumlah-penduduk-golongan-darah,",
+      "issues": "https://github.com/bantenprov/jumlah-penduduk-golongan-darah/issues",
+      "wiki": "https://github.com/bantenprov/jumlah-penduduk-golongan-darah/wiki"
+    },
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": "5.4.*"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers/helpers.php"
+        ],
+        "psr-4": {
+            "Bantenprov\\JPGolonganDarah\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
