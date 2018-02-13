@@ -1,6 +1,6 @@
 {
-    "name": "bantenprov/jumlah-penduduk-golongan-darah",
-    "description": "Jumlah penduduk berdasarkan golongan darah per desa/kelurahan",
+    "name": "bantenprov/jumlah-penduduk-jenis-pekerjaan",
+    "description": "Jumlah penduduk berdasarkan jenis pekerjaan per desa/kelurahan",
     "authors": [
         {
             "name": "bantenprov",
@@ -9,9 +9,9 @@
     ],
     "license": "MIT",
     "support": {
-      "source": "https://github.com/bantenprov/jumlah-penduduk-golongan-darah,",
-      "issues": "https://github.com/bantenprov/jumlah-penduduk-golongan-darah/issues",
-      "wiki": "https://github.com/bantenprov/jumlah-penduduk-golongan-darah/wiki"
+      "source": "https://github.com/bantenprov/jumlah-penduduk-jenis-pekerjaan,",
+      "issues": "https://github.com/bantenprov/jumlah-penduduk-jenis-pekerjaan/issues",
+      "wiki": "https://github.com/bantenprov/jumlah-penduduk-jenis-pekerjaan/wiki"
     },
     "require": {
         "php": ">=5.6.4",
@@ -22,7 +22,7 @@
             "src/helpers/helpers.php"
         ],
         "psr-4": {
-            "Bantenprov\\JPGolonganDarah\\": "src"
+            "Bantenprov\\JPJenisPekerjaan\\": "src"
         }
     },
     "minimum-stability": "dev"
