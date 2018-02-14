@@ -1,0 +1,172 @@
+[
+  {
+    "xAxis": {
+      "type": "opd",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2012",
+      "index": "Banten-2012"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":5.18,"name":"Angkatan Kerja"},
+          {"value":4.66,"name":"Rasio penyerapan anggaran per OPD"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "opd",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2012",
+      "index": "Indonesia-2012"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":119.85,"name":"Angkatan Kerja"},
+          {"value":112.5,"name":"Rasio penyerapan anggaran per OPD"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "opd",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2013",
+      "index": "Banten-2013"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":5.18,"name":"Angkatan Kerja"},
+          {"value":4.69,"name":"Rasio penyerapan anggaran per OPD"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "opd",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2013",
+      "index": "Indonesia-2013"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":120.17,"name":"Angkatan Kerja"},
+          {"value":112.76,"name":"Rasio penyerapan anggaran per OPD"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "opd",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2014",
+      "index": "Banten-2014"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":5.34,"name":"Angkatan Kerja"},
+          {"value":4.86,"name":"Rasio penyerapan anggaran per OPD"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "opd",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2014",
+      "index": "Indonesia-2014"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":121.87,"name":"Angkatan Kerja"},
+          {"value":114.63,"name":"Rasio penyerapan anggaran per OPD"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "opd",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2015",
+      "index": "Banten-2015"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":5.33,"name":"Angkatan Kerja"},
+          {"value":4.83,"name":"Rasio penyerapan anggaran per OPD"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "opd",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2015",
+      "index": "Indonesia-2015"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":122.38,"name":"Angkatan Kerja"},
+          {"value":114.82,"name":"Rasio penyerapan anggaran per OPD"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "opd",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2016",
+      "index": "Banten-2016"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":5.59,"name":"Angkatan Kerja"},
+          {"value":5.09,"name":"Rasio penyerapan anggaran per OPD"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "opd",
+      "region": "Negara",
+      "name": "Indonesia",
+      "yyyy": "2016",
+      "index": "Indonesia-2016"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":125.44,"name":"Angkatan Kerja"},
+          {"value":118.41,"name":"Rasio penyerapan anggaran per OPD"}
+        ]
+      }
+    ]
+  }
+]

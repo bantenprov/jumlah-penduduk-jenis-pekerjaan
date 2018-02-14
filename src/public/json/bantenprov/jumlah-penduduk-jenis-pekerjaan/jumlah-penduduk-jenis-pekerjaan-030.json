@@ -1,0 +1,52 @@
+[
+  {
+    "xAxis": {
+      "opd": "Persentase penyerapan anggaran per OPD",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          90.06,
+          90.46,
+          90.93,
+          90.45,
+          91.08
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "opd": "Persentase penyerapan anggaran per OPD",
+      "region": "Negara",
+      "name": "Indonesia",
+      "data": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          93.87,
+          93.83,
+          94.06,
+          93.82,
+          94.39
+        ]
+      }
+    ]
+  }
+]

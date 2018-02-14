@@ -1,0 +1,1 @@
+This is demo view file for Bantenprov\JPJenisPekerjaan package using blade template
