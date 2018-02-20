@@ -1,100 +1,5518 @@
 [
   {
     "xAxis": {
-      "opd": "Angkatan Kerja",
-      "region": "Provinsi",
-      "name": "Banten",
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) BELUM/TIDAK BEKERJA",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
       ]
     },
     "series": [
       {
         "data": [
-          5.18,
-          5.18,
-          5.34,
-          5.33,
-          5.59
+          147429,
+          166490,
+          311300,
+          228669,
+          144561,
+          47400,
+          100616,
+          108185
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "opd": "Angkatan Kerja",
-      "region": "Negara",
-      "name": "Indonesia",
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) BELUM/TIDAK BEKERJA",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
       ]
     },
     "series": [
       {
         "data": [
-          119.85,
-          120.17,
-          121.87,
-          122.38,
-          125.44         
+          128409,
+          132904,
+          268808,
+          190321,
+          129504,
+          41049,
+          89255,
+          100034
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "opd": "Rasio penyerapan anggaran per OPD",
-      "region": "Provinsi",
-      "name": "Banten",
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) MENGURUS RUMAH TANGGA",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
       ]
     },
     "series": [
       {
         "data": [
-          4.66,
-          4.69,
-          4.86,
-          4.83,
-          5.09          
+          133,
+          248,
+          430,
+          80,
+          406,
+          26,
+          39,
+          155
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "opd": "Rasio penyerapan anggaran per OPD",
-      "region": "Negara",
-      "name": "Indonesia",
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) MENGURUS RUMAH TANGGA",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
       ]
     },
     "series": [
       {
         "data": [
-          112.5,
-          112.76,
-          114.63,
-          114.82,
-          118.41         
+          260921,
+          319285,
+          574910,
+          338568,
+          321927,
+          96013,
+          130708,
+          236340
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PELAJAR/MAHASISWA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          115178,
+          105194,
+          251581,
+          130055,
+          182524,
+          46650,
+          58723,
+          161737
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PELAJAR/MAHASISWA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          106046,
+          91865,
+          221439,
+          112253,
+          167309,
+          41842,
+          49137,
+          143035
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PENSIUN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3465,
+          2991,
+          3144,
+          1879,
+          11137,
+          1796,
+          1869,
+          7875
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PENSIUN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1506,
+          1058,
+          670,
+          615,
+          2663,
+          285,
+          693,
+          2227
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PNS",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          8578,
+          7509,
+          12828,
+          5920,
+          15097,
+          2218,
+          7803,
+          15353
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PNS",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          6103,
+          4590,
+          7731,
+          4090,
+          11002,
+          3015,
+          5752,
+          9357
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) TNI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          875,
+          437,
+          1941,
+          458,
+          1996,
+          198,
+          1861,
+          2293
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) TNI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          12,
+          3,
+          22,
+          13,
+          37,
+          6,
+          34,
+          64
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) KEPOLISIAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          686,
+          746,
+          1706,
+          591,
+          2863,
+          738,
+          1810,
+          2440
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) KEPOLISIAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          43,
+          28,
+          64,
+          24,
+          172,
+          44,
+          113,
+          200
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PERDAGANGAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          6939,
+          654,
+          2751,
+          6747,
+          915,
+          636,
+          604,
+          1621
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PERDAGANGAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3337,
+          198,
+          480,
+          995,
+          238,
+          214,
+          99,
+          496
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PETANI/PEKEBUN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          82499,
+          86109,
+          8963,
+          36584,
+          696,
+          715,
+          4142,
+          624
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PETANI/PEKEBUN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          19157,
+          13172,
+          441,
+          4709,
+          158,
+          58,
+          324,
+          91
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PETERNAK",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          210,
+          51,
+          121,
+          83,
+          11,
+          16,
+          8,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PETERNAK",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          55,
+          11,
+          24,
+          7,
+          2,
+          3,
+          2,
+          41
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) NELAYAN/PERIKANAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5621,
+          831,
+          4819,
+          3192,
+          21,
+          116,
+          999,
+          66
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) NELAYAN/PERIKANAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          98,
+          6,
+          28,
+          35,
+          1,
+          2,
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) INDUSTRI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1264,
+          50,
+          213,
+          155,
+          78,
+          52,
+          10,
+          348
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) INDUSTRI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          730,
+          11,
+          91,
+          56,
+          45,
+          4,
+          8,
+          155
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) KONSTRUKSI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          573,
+          54,
+          127,
+          58,
+          53,
+          70,
+          21,
+          287
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) KONSTRUKSI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          42,
+          0,
+          19,
+          5,
+          5,
+          1,
+          2,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) TRANSPORTASI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2616,
+          168,
+          296,
+          205,
+          164,
+          99,
+          17,
+          378
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) TRANSPORTASI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          49,
+          2,
+          38,
+          4,
+          18,
+          1,
+          1,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) KARYAWAN SWASTA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          22038,
+          23365,
+          372112,
+          61956,
+          310131,
+          39430,
+          30987,
+          196804
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) KARYAWAN SWASTA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          8421,
+          5515,
+          171356,
+          23875,
+          148573,
+          7444,
+          13565,
+          95115
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) KARYAWAN BUMN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          806,
+          1071,
+          2067,
+          1915,
+          4371,
+          4281,
+          1375,
+          3135
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) KARYAWAN BUMN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          125,
+          138,
+          537,
+          175,
+          1692,
+          460,
+          316,
+          1461
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) KARYAWAN BUMD",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          97,
+          125,
+          324,
+          67,
+          316,
+          184,
+          615,
+          148
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) KARYAWAN BUMD",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          33,
+          43,
+          92,
+          21,
+          136,
+          43,
+          117,
+          67
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) KARYAWAN HONORER",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2097,
+          2242,
+          1694,
+          1278,
+          1180,
+          879,
+          1075,
+          761
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) KARYAWAN HONORER",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2117,
+          1900,
+          976,
+          1055,
+          528,
+          719,
+          929,
+          411
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) BURUH HARIAN LEPAS",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          34534,
+          99323,
+          164987,
+          159276,
+          36126,
+          27734,
+          38567,
+          14747
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) BURUH HARIAN LEPAS",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3793,
+          8042,
+          3874,
+          10393,
+          1163,
+          439,
+          1898,
+          546
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) BURUH TANI PERKEBUNAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          7868,
+          13206,
+          7963,
+          11960,
+          769,
+          1316,
+          432,
+          1271
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) BURUH TANI PERKEBUNAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1071,
+          1828,
+          459,
+          1292,
+          53,
+          96,
+          69,
+          71
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) BURUH NELAYAN PERIKANAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          405,
+          774,
+          989,
+          1381,
+          7,
+          114,
+          87,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) BURUH NELAYAN PERIKANAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          17,
+          13,
+          22,
+          26,
+          2,
+          1,
+          8,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) BURUH PERTERNAKAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          51,
+          66,
+          134,
+          92,
+          22,
+          15,
+          12,
+          24
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) BURUH PERTERNAKAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          18,
+          5,
+          17,
+          23,
+          1,
+          4,
+          1,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PEMBANTU RUMAH TANGGA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          27,
+          32,
+          13,
+          13,
+          7,
+          7,
+          2,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PEMBANTU RUMAH TANGGA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          365,
+          709,
+          463,
+          428,
+          325,
+          160,
+          51,
+          525
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) TUKANG CUKUR",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          14,
+          9,
+          24,
+          11,
+          5,
+          21,
+          7,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) TUKANG CUKUR",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2,
+          1,
+          1,
+          1,
+          0,
+          3,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) TUKANG LISTRIK",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          31,
+          14,
+          35,
+          24,
+          17,
+          20,
+          6,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) TUKANG LISTRIK",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2,
+          2,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) TUKANG BATU",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          29,
+          28,
+          159,
+          64,
+          79,
+          49,
+          5,
+          109
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) TUKANG BATU",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) TUKANG KAYU",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          70,
+          109,
+          130,
+          99,
+          33,
+          31,
+          7,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) TUKANG KAYU",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) TUKANG SOL SEPATU",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          8,
+          5,
+          21,
+          6,
+          0,
+          6,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) TUKANG SOL SEPATU",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2,
+          0,
+          3,
+          4,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) TUKANG LAS/PANDAI BESI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          24,
+          82,
+          51,
+          74,
+          17,
+          24,
+          8,
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) TUKANG LAS/PANDAI BESI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          6,
+          1,
+          2,
+          1,
+          0,
+          0,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) TUKANG JAHIT",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          83,
+          82,
+          171,
+          103,
+          120,
+          50,
+          17,
+          87
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) TUKANG JAHIT",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          19,
+          21,
+          46,
+          25,
+          53,
+          25,
+          6,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) TUKANG GIGI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4,
+          2,
+          4,
+          1,
+          2,
+          0,
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) TUKANG GIGI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          1,
+          1,
+          1,
+          3,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PENATA RIAS",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5,
+          5,
+          19,
+          8,
+          6,
+          2,
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PENATA RIAS",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          14,
+          10,
+          27,
+          17,
+          25,
+          20,
+          0,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PENATA BUSANA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          7,
+          6,
+          1,
+          2,
+          1,
+          0,
+          2,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PENATA BUSANA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          8,
+          2,
+          5,
+          2,
+          1,
+          22
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PENATA RAMBUT",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4,
+          2,
+          12,
+          1,
+          7,
+          2,
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PENATA RAMBUT",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5,
+          3,
+          16,
+          2,
+          9,
+          10,
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) MEKANIK",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          113,
+          89,
+          236,
+          92,
+          133,
+          89,
+          25,
+          114
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) MEKANIK",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          0,
+          7,
+          0,
+          0,
+          1,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) SENIMAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          12,
+          11,
+          99,
+          7,
+          197,
+          26,
+          21,
+          290
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) SENIMAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          2,
+          15,
+          0,
+          30,
+          0,
+          0,
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) TABIB",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3,
+          2,
+          9,
+          7,
+          8,
+          6,
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) TABIB",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          0,
+          1,
+          2,
+          1,
+          1,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PARAJI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4,
+          0,
+          2,
+          1,
+          1,
+          2,
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PARAJI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          21,
+          35,
+          35,
+          542,
+          2,
+          0,
+          4,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PERANCANG BUSANAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          10,
+          2,
+          2,
+          0,
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PERANCANG BUSANAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          0,
+          4,
+          2,
+          2,
+          1,
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PENTERJEMAH",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4,
+          0,
+          3,
+          9,
+          0,
+          1,
+          0,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PENTERJEMAH",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          2,
+          4,
+          4,
+          2,
+          1,
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) IMAM MESJID",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          20,
+          35,
+          44,
+          37,
+          14,
+          18,
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) IMAM MESJID",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PENDETA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3,
+          5,
+          202,
+          1,
+          279,
+          8,
+          9,
+          196
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PENDETA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          64,
+          0,
+          91,
+          1,
+          1,
+          87
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PASTOR",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          7,
+          0,
+          12,
+          0,
+          1,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PASTOR",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) WARTAWAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          48,
+          41,
+          227,
+          43,
+          522,
+          22,
+          53,
+          533
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) WARTAWAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3,
+          0,
+          19,
+          3,
+          69,
+          3,
+          6,
+          110
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) USTADZ/MUBALIGH",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          428,
+          777,
+          1361,
+          703,
+          129,
+          84,
+          146,
+          77
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) USTADZ/MUBALIGH",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          15,
+          39,
+          91,
+          26,
+          21,
+          8,
+          10,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) JURU MASAK",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4,
+          1,
+          6,
+          1,
+          4,
+          7,
+          0,
+          14
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) JURU MASAK",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2,
+          2,
+          10,
+          6,
+          6,
+          5,
+          2,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PROMOTOR ACARA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          2,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PROMOTOR ACARA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) ANGGOTA DPR RI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          3,
+          8,
+          0,
+          2,
+          1,
+          6,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) ANGGOTA DPR RI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) ANGGOTA DPD",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          1,
+          2,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) ANGGOTA DPD",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) ANGGOTA BPK",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5,
+          1,
+          0,
+          1,
+          2,
+          1,
+          2,
+          13
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) ANGGOTA BPK",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PRESIDEN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PRESIDEN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) WAKIL PRESIDEN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) WAKIL PRESIDEN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) ANGGOTA MAHKAMAH KONSTITUSI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) ANGGOTA MAHKAMAH KONSTITUSI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) ANGGOTA KABINET/KEMENTERIAN ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) ANGGOTA KABINET/KEMENTERIAN ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) DUTA BESAR ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) DUTA BESAR ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) GUBERNUR ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) GUBERNUR ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) WAKIL GUBERNUR ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) WAKIL GUBERNUR ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) BUPATI ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) BUPATI ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) WAKIL BUPATI ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) WAKIL BUPATI ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) WALI KOTA ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) WALI KOTA ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) WAKIL WALI KOTA ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) WAKIL WALI KOTA ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) ANGGOTA DPRD PROVINSI ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          3,
+          2,
+          3,
+          5,
+          1,
+          6,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) ANGGOTA DPRD PROVINSI ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          1,
+          5,
+          2,
+          2,
+          0,
+          3,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) ANGGOTA DPRD KABUPATEN/KOTA ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          19,
+          23,
+          20,
+          23,
+          20,
+          13,
+          11,
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) ANGGOTA DPRD KABUPATEN/KOTA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          6,
+          3,
+          3,
+          5,
+          3,
+          2,
+          4,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) DOSEN ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          80,
+          54,
+          339,
+          60,
+          531,
+          82,
+          179,
+          972
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) DOSEN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          32,
+          32,
+          211,
+          41,
+          367,
+          69,
+          117,
+          703
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) GURU ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1035,
+          1562,
+          5904,
+          1748,
+          4588,
+          803,
+          751,
+          2974
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) GURU",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1672,
+          1780,
+          10667,
+          2429,
+          11195,
+          2348,
+          1805,
+          6876
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PILOT ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2,
+          0,
+          76,
+          2,
+          111,
+          3,
+          1,
+          265
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PILOT",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          2,
+          2,
+          0,
+          0,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PENGACARA ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          11,
+          9,
+          98,
+          3,
+          167,
+          10,
+          27,
+          205
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PENGACARA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          1,
+          10,
+          1,
+          32,
+          0,
+          4,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) NOTARIS ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          7,
+          6,
+          14,
+          3,
+          30,
+          6,
+          7,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) NOTARIS",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2,
+          0,
+          24,
+          4,
+          32,
+          11,
+          8,
+          76
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) ARSITEK ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2,
+          2,
+          27,
+          1,
+          30,
+          4,
+          6,
+          93
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) ARSITEK",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          11,
+          0,
+          8,
+          0,
+          0,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) AKUNTAN ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5,
+          0,
+          9,
+          2,
+          4,
+          0,
+          0,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) AKUNTAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3,
+          1,
+          6,
+          0,
+          5,
+          1,
+          0,
+          17
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) KONSULTAN ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          24,
+          16,
+          57,
+          12,
+          81,
+          14,
+          24,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) KONSULTAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4,
+          3,
+          12,
+          2,
+          12,
+          5,
+          10,
+          64
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) DOKTER ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          35,
+          32,
+          352,
+          37,
+          542,
+          76,
+          77,
+          654
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) DOKTER",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          37,
+          46,
+          540,
+          63,
+          1033,
+          162,
+          136,
+          1393
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) BIDAN ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          0,
+          5,
+          0,
+          1,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) BIDAN",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          563,
+          588,
+          1670,
+          455,
+          1017,
+          277,
+          463,
+          496
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PERAWAT ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          167,
+          207,
+          251,
+          87,
+          104,
+          24,
+          55,
+          70
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PERAWAT",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          239,
+          311,
+          921,
+          197,
+          1014,
+          208,
+          230,
+          679
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) APOTEKER ",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          3,
+          15,
+          2,
+          9,
+          5,
+          7,
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) APOTEKER",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          18,
+          7,
+          44,
+          8,
+          53,
+          26,
+          23,
+          75
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PSIKIATER/PSIKOLOG",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          1,
+          3,
+          1,
+          5,
+          3,
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PSIKIATER/PSIKOLOG",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          10,
+          0,
+          8,
+          6,
+          1,
+          38
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PENYIAR TELEVISI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PENYIAR TELEVISI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PENYIAR RADIO",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PENYIAR RADIO",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          1,
+          1,
+          0,
+          2,
+          1,
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PELAUT",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          56,
+          37,
+          206,
+          42,
+          122,
+          119,
+          45,
+          113
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PELAUT",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          0,
+          0,
+          0,
+          5,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PENELITI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          27,
+          28,
+          73,
+          5,
+          13,
+          6,
+          3,
+          36
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PENELITI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4,
+          3,
+          2,
+          2,
+          3,
+          0,
+          1,
+          12
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) SOPIR",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1666,
+          5122,
+          5741,
+          1936,
+          2585,
+          926,
+          436,
+          1667
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) SOPIR",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          11,
+          6,
+          4,
+          3,
+          3,
+          0,
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PIALANG",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1,
+          0,
+          11,
+          6,
+          3,
+          0,
+          1,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PIALANG",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          0,
+          4,
+          42,
+          0,
+          1,
+          1,
+          9
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PARANORMAL",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          8,
+          1,
+          13,
+          3,
+          6,
+          1,
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PARANORMAL",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2,
+          0,
+          2,
+          0,
+          0,
+          1,
+          0,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PEDAGANG",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2088,
+          4581,
+          12407,
+          2311,
+          3190,
+          1516,
+          1579,
+          2097
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PEDAGANG",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          774,
+          1182,
+          1680,
+          391,
+          783,
+          457,
+          270,
+          459
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) PERANGKAT DESA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          96,
+          356,
+          1377,
+          412,
+          95,
+          14,
+          66,
+          155
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) PERANGKAT DESA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          12,
+          64,
+          35,
+          34,
+          15,
+          1,
+          11,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) KEPALA DESA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          94,
+          103,
+          199,
+          205,
+          2,
+          0,
+          20,
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) KEPALA DESA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4,
+          6,
+          8,
+          6,
+          0,
+          0,
+          3,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) BIARAWATI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2,
+          0,
+          4,
+          0,
+          12,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) BIARAWATI",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0,
+          4,
+          21,
+          0,
+          23,
+          0,
+          4,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) WIRASWASTA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          154622,
+          104288,
+          157318,
+          73634,
+          106970,
+          27363,
+          58484,
+          96111
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) WIRASWASTA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          23522,
+          7167,
+          12955,
+          6764,
+          15447,
+          2415,
+          5257,
+          15627
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(L) LAINNYA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          563,
+          85,
+          98,
+          293,
+          126,
+          269,
+          9642,
+          714
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jenis Pekerjaan",
+      "region": "Banten",
+      "name": "(P) LAINNYA",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          138,
+          41,
+          70,
+          184,
+          85,
+          31,
+          5418,
+          345
         ]
       }
     ]
