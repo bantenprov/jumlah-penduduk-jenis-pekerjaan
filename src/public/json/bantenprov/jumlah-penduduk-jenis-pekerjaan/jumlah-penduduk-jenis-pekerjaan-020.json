@@ -1,7 +1,7 @@
 [
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) BELUM/TIDAK BEKERJA",
       "data": [
@@ -32,7 +32,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) BELUM/TIDAK BEKERJA",
       "data": [
@@ -63,7 +63,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) MENGURUS RUMAH TANGGA",
       "data": [
@@ -94,7 +94,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) MENGURUS RUMAH TANGGA",
       "data": [
@@ -125,7 +125,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PELAJAR/MAHASISWA",
       "data": [
@@ -156,7 +156,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PELAJAR/MAHASISWA",
       "data": [
@@ -187,7 +187,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PENSIUN",
       "data": [
@@ -218,7 +218,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PENSIUN",
       "data": [
@@ -249,7 +249,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PNS",
       "data": [
@@ -280,7 +280,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PNS",
       "data": [
@@ -311,7 +311,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) TNI",
       "data": [
@@ -342,7 +342,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) TNI",
       "data": [
@@ -373,7 +373,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) KEPOLISIAN",
       "data": [
@@ -404,7 +404,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) KEPOLISIAN",
       "data": [
@@ -435,7 +435,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PERDAGANGAN",
       "data": [
@@ -466,7 +466,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PERDAGANGAN",
       "data": [
@@ -497,7 +497,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PETANI/PEKEBUN",
       "data": [
@@ -528,7 +528,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PETANI/PEKEBUN",
       "data": [
@@ -559,7 +559,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PETERNAK",
       "data": [
@@ -590,7 +590,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PETERNAK",
       "data": [
@@ -621,7 +621,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) NELAYAN/PERIKANAN",
       "data": [
@@ -652,7 +652,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) NELAYAN/PERIKANAN",
       "data": [
@@ -683,7 +683,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) INDUSTRI",
       "data": [
@@ -714,7 +714,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) INDUSTRI",
       "data": [
@@ -745,7 +745,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) KONSTRUKSI",
       "data": [
@@ -776,7 +776,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) KONSTRUKSI",
       "data": [
@@ -807,7 +807,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) TRANSPORTASI",
       "data": [
@@ -838,7 +838,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) TRANSPORTASI",
       "data": [
@@ -869,7 +869,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) KARYAWAN SWASTA",
       "data": [
@@ -900,7 +900,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) KARYAWAN SWASTA",
       "data": [
@@ -931,7 +931,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) KARYAWAN BUMN",
       "data": [
@@ -962,7 +962,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) KARYAWAN BUMN",
       "data": [
@@ -993,7 +993,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) KARYAWAN BUMD",
       "data": [
@@ -1024,7 +1024,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) KARYAWAN BUMD",
       "data": [
@@ -1055,7 +1055,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) KARYAWAN HONORER",
       "data": [
@@ -1086,7 +1086,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) KARYAWAN HONORER",
       "data": [
@@ -1117,7 +1117,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) BURUH HARIAN LEPAS",
       "data": [
@@ -1148,7 +1148,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) BURUH HARIAN LEPAS",
       "data": [
@@ -1179,7 +1179,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) BURUH TANI PERKEBUNAN",
       "data": [
@@ -1210,7 +1210,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) BURUH TANI PERKEBUNAN",
       "data": [
@@ -1241,7 +1241,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) BURUH NELAYAN PERIKANAN",
       "data": [
@@ -1272,7 +1272,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) BURUH NELAYAN PERIKANAN",
       "data": [
@@ -1303,7 +1303,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) BURUH PERTERNAKAN",
       "data": [
@@ -1334,7 +1334,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) BURUH PERTERNAKAN",
       "data": [
@@ -1365,7 +1365,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PEMBANTU RUMAH TANGGA",
       "data": [
@@ -1396,7 +1396,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PEMBANTU RUMAH TANGGA",
       "data": [
@@ -1427,7 +1427,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) TUKANG CUKUR",
       "data": [
@@ -1458,7 +1458,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) TUKANG CUKUR",
       "data": [
@@ -1489,7 +1489,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) TUKANG LISTRIK",
       "data": [
@@ -1520,7 +1520,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) TUKANG LISTRIK",
       "data": [
@@ -1551,7 +1551,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) TUKANG BATU",
       "data": [
@@ -1582,7 +1582,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) TUKANG BATU",
       "data": [
@@ -1613,7 +1613,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) TUKANG KAYU",
       "data": [
@@ -1644,7 +1644,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) TUKANG KAYU",
       "data": [
@@ -1675,7 +1675,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) TUKANG SOL SEPATU",
       "data": [
@@ -1706,7 +1706,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) TUKANG SOL SEPATU",
       "data": [
@@ -1737,7 +1737,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) TUKANG LAS/PANDAI BESI",
       "data": [
@@ -1768,7 +1768,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) TUKANG LAS/PANDAI BESI",
       "data": [
@@ -1799,7 +1799,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) TUKANG JAHIT",
       "data": [
@@ -1830,7 +1830,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) TUKANG JAHIT",
       "data": [
@@ -1861,7 +1861,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) TUKANG GIGI",
       "data": [
@@ -1892,7 +1892,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) TUKANG GIGI",
       "data": [
@@ -1923,7 +1923,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PENATA RIAS",
       "data": [
@@ -1954,7 +1954,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PENATA RIAS",
       "data": [
@@ -1985,7 +1985,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PENATA BUSANA",
       "data": [
@@ -2016,7 +2016,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PENATA BUSANA",
       "data": [
@@ -2047,7 +2047,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PENATA RAMBUT",
       "data": [
@@ -2078,7 +2078,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PENATA RAMBUT",
       "data": [
@@ -2109,7 +2109,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) MEKANIK",
       "data": [
@@ -2140,7 +2140,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) MEKANIK",
       "data": [
@@ -2171,7 +2171,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) SENIMAN",
       "data": [
@@ -2202,7 +2202,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) SENIMAN",
       "data": [
@@ -2233,7 +2233,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) TABIB",
       "data": [
@@ -2264,7 +2264,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) TABIB",
       "data": [
@@ -2295,7 +2295,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PARAJI",
       "data": [
@@ -2326,7 +2326,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PARAJI",
       "data": [
@@ -2357,7 +2357,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PERANCANG BUSANAN",
       "data": [
@@ -2388,7 +2388,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PERANCANG BUSANAN",
       "data": [
@@ -2419,7 +2419,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PENTERJEMAH",
       "data": [
@@ -2450,7 +2450,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PENTERJEMAH",
       "data": [
@@ -2481,7 +2481,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) IMAM MESJID",
       "data": [
@@ -2512,7 +2512,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) IMAM MESJID",
       "data": [
@@ -2543,7 +2543,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PENDETA",
       "data": [
@@ -2574,7 +2574,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PENDETA",
       "data": [
@@ -2605,7 +2605,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PASTOR",
       "data": [
@@ -2636,7 +2636,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PASTOR",
       "data": [
@@ -2667,7 +2667,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) WARTAWAN",
       "data": [
@@ -2698,7 +2698,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) WARTAWAN",
       "data": [
@@ -2729,7 +2729,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) USTADZ/MUBALIGH",
       "data": [
@@ -2760,7 +2760,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) USTADZ/MUBALIGH",
       "data": [
@@ -2791,7 +2791,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) JURU MASAK",
       "data": [
@@ -2822,7 +2822,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) JURU MASAK",
       "data": [
@@ -2853,7 +2853,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PROMOTOR ACARA",
       "data": [
@@ -2884,7 +2884,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PROMOTOR ACARA",
       "data": [
@@ -2915,7 +2915,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) ANGGOTA DPR RI",
       "data": [
@@ -2946,7 +2946,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) ANGGOTA DPR RI",
       "data": [
@@ -2977,7 +2977,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) ANGGOTA DPD",
       "data": [
@@ -3008,7 +3008,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) ANGGOTA DPD",
       "data": [
@@ -3039,7 +3039,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) ANGGOTA BPK",
       "data": [
@@ -3070,7 +3070,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) ANGGOTA BPK",
       "data": [
@@ -3101,7 +3101,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PRESIDEN",
       "data": [
@@ -3132,7 +3132,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PRESIDEN",
       "data": [
@@ -3163,7 +3163,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) WAKIL PRESIDEN",
       "data": [
@@ -3194,7 +3194,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) WAKIL PRESIDEN",
       "data": [
@@ -3225,7 +3225,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) ANGGOTA MAHKAMAH KONSTITUSI",
       "data": [
@@ -3256,7 +3256,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) ANGGOTA MAHKAMAH KONSTITUSI",
       "data": [
@@ -3287,7 +3287,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) ANGGOTA KABINET/KEMENTERIAN ",
       "data": [
@@ -3318,7 +3318,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) ANGGOTA KABINET/KEMENTERIAN ",
       "data": [
@@ -3349,7 +3349,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) DUTA BESAR ",
       "data": [
@@ -3380,7 +3380,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) DUTA BESAR ",
       "data": [
@@ -3411,7 +3411,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) GUBERNUR ",
       "data": [
@@ -3442,7 +3442,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) GUBERNUR ",
       "data": [
@@ -3473,7 +3473,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) WAKIL GUBERNUR ",
       "data": [
@@ -3504,7 +3504,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) WAKIL GUBERNUR ",
       "data": [
@@ -3535,7 +3535,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) BUPATI ",
       "data": [
@@ -3566,7 +3566,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) BUPATI ",
       "data": [
@@ -3597,7 +3597,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) WAKIL BUPATI ",
       "data": [
@@ -3628,7 +3628,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) WAKIL BUPATI ",
       "data": [
@@ -3659,7 +3659,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) WALI KOTA ",
       "data": [
@@ -3690,7 +3690,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) WALI KOTA ",
       "data": [
@@ -3721,7 +3721,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) WAKIL WALI KOTA ",
       "data": [
@@ -3752,7 +3752,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) WAKIL WALI KOTA ",
       "data": [
@@ -3783,7 +3783,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) ANGGOTA DPRD PROVINSI ",
       "data": [
@@ -3814,7 +3814,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) ANGGOTA DPRD PROVINSI ",
       "data": [
@@ -3845,7 +3845,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) ANGGOTA DPRD KABUPATEN/KOTA ",
       "data": [
@@ -3876,7 +3876,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) ANGGOTA DPRD KABUPATEN/KOTA",
       "data": [
@@ -3907,7 +3907,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) DOSEN ",
       "data": [
@@ -3938,7 +3938,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) DOSEN",
       "data": [
@@ -3969,7 +3969,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) GURU ",
       "data": [
@@ -4000,7 +4000,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) GURU",
       "data": [
@@ -4031,7 +4031,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PILOT ",
       "data": [
@@ -4062,7 +4062,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PILOT",
       "data": [
@@ -4093,7 +4093,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PENGACARA ",
       "data": [
@@ -4124,7 +4124,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PENGACARA",
       "data": [
@@ -4155,7 +4155,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) NOTARIS ",
       "data": [
@@ -4186,7 +4186,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) NOTARIS",
       "data": [
@@ -4217,7 +4217,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) ARSITEK ",
       "data": [
@@ -4248,7 +4248,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) ARSITEK",
       "data": [
@@ -4279,7 +4279,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) AKUNTAN ",
       "data": [
@@ -4310,7 +4310,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) AKUNTAN",
       "data": [
@@ -4341,7 +4341,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) KONSULTAN ",
       "data": [
@@ -4372,7 +4372,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) KONSULTAN",
       "data": [
@@ -4403,7 +4403,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) DOKTER ",
       "data": [
@@ -4434,7 +4434,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) DOKTER",
       "data": [
@@ -4465,7 +4465,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) BIDAN ",
       "data": [
@@ -4496,7 +4496,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) BIDAN",
       "data": [
@@ -4527,7 +4527,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PERAWAT ",
       "data": [
@@ -4558,7 +4558,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PERAWAT",
       "data": [
@@ -4589,7 +4589,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) APOTEKER ",
       "data": [
@@ -4620,7 +4620,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) APOTEKER",
       "data": [
@@ -4651,7 +4651,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PSIKIATER/PSIKOLOG",
       "data": [
@@ -4682,7 +4682,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PSIKIATER/PSIKOLOG",
       "data": [
@@ -4713,7 +4713,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PENYIAR TELEVISI",
       "data": [
@@ -4744,7 +4744,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PENYIAR TELEVISI",
       "data": [
@@ -4775,7 +4775,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PENYIAR RADIO",
       "data": [
@@ -4806,7 +4806,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PENYIAR RADIO",
       "data": [
@@ -4837,7 +4837,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PELAUT",
       "data": [
@@ -4868,7 +4868,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PELAUT",
       "data": [
@@ -4899,7 +4899,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PENELITI",
       "data": [
@@ -4930,7 +4930,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PENELITI",
       "data": [
@@ -4961,7 +4961,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) SOPIR",
       "data": [
@@ -4992,7 +4992,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) SOPIR",
       "data": [
@@ -5023,7 +5023,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PIALANG",
       "data": [
@@ -5054,7 +5054,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PIALANG",
       "data": [
@@ -5085,7 +5085,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PARANORMAL",
       "data": [
@@ -5116,7 +5116,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PARANORMAL",
       "data": [
@@ -5147,7 +5147,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PEDAGANG",
       "data": [
@@ -5178,7 +5178,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PEDAGANG",
       "data": [
@@ -5209,7 +5209,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) PERANGKAT DESA",
       "data": [
@@ -5240,7 +5240,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) PERANGKAT DESA",
       "data": [
@@ -5271,7 +5271,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) KEPALA DESA",
       "data": [
@@ -5302,7 +5302,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) KEPALA DESA",
       "data": [
@@ -5333,7 +5333,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) BIARAWATI",
       "data": [
@@ -5364,7 +5364,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) BIARAWATI",
       "data": [
@@ -5395,7 +5395,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) WIRASWASTA",
       "data": [
@@ -5426,7 +5426,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) WIRASWASTA",
       "data": [
@@ -5457,7 +5457,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(L) LAINNYA",
       "data": [
@@ -5488,7 +5488,7 @@
   },
   {
     "xAxis": {
-      "category": "Jenis Pekerjaan",
+      "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "(P) LAINNYA",
       "data": [
