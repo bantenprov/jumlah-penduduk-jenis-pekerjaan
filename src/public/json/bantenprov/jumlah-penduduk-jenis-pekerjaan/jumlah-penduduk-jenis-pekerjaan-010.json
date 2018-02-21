@@ -1,7 +1,7 @@
 [
   {
     "xAxis": {
-      "type": "Jenis Pekerjaan",
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "Pandeglang",
       "yyyy": "2017",
@@ -374,7 +374,7 @@
   },
   {
     "xAxis": {
-      "type": "Jenis Pekerjaan",
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "Lebak",
       "yyyy": "2017",
@@ -747,7 +747,7 @@
   },
   {
     "xAxis": {
-      "type": "Jenis Pekerjaan",
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "Tangerang",
       "yyyy": "2017",
@@ -1121,7 +1121,7 @@
   },
   {
     "xAxis": {
-      "type": "Jenis Pekerjaan",
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "Serang",
       "yyyy": "2017",
@@ -1494,7 +1494,7 @@
   },
   {
     "xAxis": {
-      "type": "Jenis Pekerjaan",
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "Kota Tangerang",
       "yyyy": "2017",
@@ -1867,7 +1867,7 @@
   },
   {
     "xAxis": {
-      "type": "Jenis Pekerjaan",
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "Kota Cilegon",
       "yyyy": "2017",
@@ -2240,7 +2240,7 @@
   },
   {
     "xAxis": {
-      "type": "Jenis Pekerjaan",
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "Kota Serang",
       "yyyy": "2017",
@@ -2613,7 +2613,7 @@
   },
   {
     "xAxis": {
-      "type": "Jenis Pekerjaan",
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
       "name": "Kota Tangerang Selatan",
       "yyyy": "2017",
