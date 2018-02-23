@@ -1,170 +1,4094 @@
 [
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2012",
-      "index": "Banten-2012"
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) BELUM/TIDAK BEKERJA",
+      "yyyy": "2017",
+      "index": "(L) BELUM/TIDAK BEKERJA 2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.18,"name":"Angkatan Kerja"},
-          {"value":4.66,"name":"Rasio penyerapan anggaran per OPD"}
+          {"value":147429,"name":"PANDEGLANG"},
+          {"value":166490,"name":"LEBAK"},
+          {"value":311300,"name":"TANGERANG"},
+          {"value":228669,"name":"SERANG"},
+          {"value":144561,"name":"KOTA TANGERANG"},
+          {"value":47400,"name":"KOTA CILEGON"},
+          {"value":100616,"name":"KOTA SERANG"},
+          {"value":108185,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2013",
-      "index": "Banten-2013"
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) BELUM/TIDAK BEKERJA",
+      "yyyy": "2017",
+      "index": "(P) BELUM/TIDAK BEKERJA 2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.18,"name":"Angkatan Kerja"},
-          {"value":4.69,"name":"Rasio penyerapan anggaran per OPD"}
+          {"value":128409,"name":"PANDEGLANG"},
+          {"value":132904,"name":"LEBAK"},
+          {"value":268808,"name":"TANGERANG"},
+          {"value":190321,"name":"SERANG"},
+          {"value":129504,"name":"KOTA TANGERANG"},
+          {"value":41049,"name":"KOTA CILEGON"},
+          {"value":89255,"name":"KOTA SERANG"},
+          {"value":100034,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2014",
-      "index": "Banten-2014"
+      "type": "Jumlah Penduduk Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) MENGURUS RUMAH TANGGA",
+      "yyyy": "2017",
+      "index": "(L) MENGURUS RUMAH TANGGA 2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.34,"name":"Angkatan Kerja"},
-          {"value":4.86,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":133,"name":"PANDEGLANG"},
+        {"value":248,"name":"LEBAK"},
+        {"value":430,"name":"TANGERANG"},
+        {"value":80,"name":"SERANG"},
+        {"value":406,"name":"KOTA TANGERANG"},
+        {"value":26,"name":"KOTA CILEGON"},
+        {"value":39,"name":"KOTA SERANG"},
+        {"value":155,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2015",
-      "index": "Banten-2015"
+      "type": "Jumlah Penduduk Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) MENGURUS RUMAH TANGGA",
+      "yyyy": "2017",
+      "index": "(P) MENGURUS RUMAH TANGGA 2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.33,"name":"Angkatan Kerja"},
-          {"value":4.83,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":260921,"name":"PANDEGLANG"},
+        {"value":319285,"name":"LEBAK"},
+        {"value":574910,"name":"TANGERANG"},
+        {"value":338568,"name":"SERANG"},
+        {"value":321927,"name":"KOTA TANGERANG"},
+        {"value":96013,"name":"KOTA CILEGON"},
+        {"value":130708,"name":"KOTA SERANG"},
+        {"value":236340,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2016",
-      "index": "Banten-2016"
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PELAJAR/MAHASISWA",
+      "yyyy": "2017",
+      "index": "(L) PELAJAR/MAHASISWA 2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.59,"name":"Angkatan Kerja"},
-          {"value":5.09,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":115178,"name":"PANDEGLANG"},
+        {"value":105194,"name":"LEBAK"},
+        {"value":251581,"name":"TANGERANG"},
+        {"value":130055,"name":"SERANG"},
+        {"value":182524,"name":"KOTA TANGERANG"},
+        {"value":46650,"name":"KOTA CILEGON"},
+        {"value":58723,"name":"KOTA SERANG"},
+        {"value":161737,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2012",
-      "index": "Indonesia-2012"
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PELAJAR/MAHASISWA",
+      "yyyy": "2017",
+      "index": "(P) PELAJAR/MAHASISWA 2017"
     },
     "series": [
       {
         "data": [
-          {"value":119.85,"name":"Angkatan Kerja"},
-          {"value":112.5,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":106046,"name":"PANDEGLANG"},
+        {"value":91865,"name":"LEBAK"},
+        {"value":221439,"name":"TANGERANG"},
+        {"value":112253,"name":"SERANG"},
+        {"value":167309,"name":"KOTA TANGERANG"},
+        {"value":41842,"name":"KOTA CILEGON"},
+        {"value":49137,"name":"KOTA SERANG"},
+        {"value":143035,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2013",
-      "index": "Indonesia-2013"
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PENSIUNAN",
+      "yyyy": "2017",
+      "index": "(L) PENSIUNAN 2017"
     },
     "series": [
       {
         "data": [
-          {"value":120.17,"name":"Angkatan Kerja"},
-          {"value":112.76,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":3465,"name":"PANDEGLANG"},
+        {"value":2991,"name":"LEBAK"},
+        {"value":3144,"name":"TANGERANG"},
+        {"value":1879,"name":"SERANG"},
+        {"value":11137,"name":"KOTA TANGERANG"},
+        {"value":1796,"name":"KOTA CILEGON"},
+        {"value":1869,"name":"KOTA SERANG"},
+        {"value":7875,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2014",
-      "index": "Indonesia-2014"
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PENSIUNAN",
+      "yyyy": "2017",
+      "index": "(P) PENSIUNAN 2017"
     },
     "series": [
       {
         "data": [
-          {"value":121.87,"name":"Angkatan Kerja"},
-          {"value":114.63,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":1506,"name":"PANDEGLANG"},
+        {"value":1058,"name":"LEBAK"},
+        {"value":670,"name":"TANGERANG"},
+        {"value":615,"name":"SERANG"},
+        {"value":2663,"name":"KOTA TANGERANG"},
+        {"value":285,"name":"KOTA CILEGON"},
+        {"value":693,"name":"KOTA SERANG"},
+        {"value":2227,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2015",
-      "index": "Indonesia-2015"
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PNS",
+      "yyyy": "2017",
+      "index": "(L) PNS 2017"
     },
     "series": [
       {
         "data": [
-          {"value":122.38,"name":"Angkatan Kerja"},
-          {"value":114.82,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":8578,"name":"PANDEGLANG"},
+        {"value":7509,"name":"LEBAK"},
+        {"value":12828,"name":"TANGERANG"},
+        {"value":5920,"name":"SERANG"},
+        {"value":15097,"name":"KOTA TANGERANG"},
+        {"value":2218,"name":"KOTA CILEGON"},
+        {"value":7803,"name":"KOTA SERANG"},
+        {"value":15353,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2016",
-      "index": "Indonesia-2016"
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PNS",
+      "yyyy": "2017",
+      "index": "(P) PNS 2017"
     },
     "series": [
       {
         "data": [
-          {"value":125.44,"name":"Angkatan Kerja"},
-          {"value":118.41,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":6103,"name":"PANDEGLANG"},
+        {"value":4590,"name":"LEBAK"},
+        {"value":7731,"name":"TANGERANG"},
+        {"value":4090,"name":"SERANG"},
+        {"value":11002,"name":"KOTA TANGERANG"},
+        {"value":3015,"name":"KOTA CILEGON"},
+        {"value":5752,"name":"KOTA SERANG"},
+        {"value":9357,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) TNI",
+      "yyyy": "2017",
+      "index": "(L) TNI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":875,"name":"PANDEGLANG"},
+        {"value":437,"name":"LEBAK"},
+        {"value":1941,"name":"TANGERANG"},
+        {"value":458,"name":"SERANG"},
+        {"value":1996,"name":"KOTA TANGERANG"},
+        {"value":198,"name":"KOTA CILEGON"},
+        {"value":1861,"name":"KOTA SERANG"},
+        {"value":2293,"name":"KOTA TANGERANG SELATAN"}        
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) TNI",
+      "yyyy": "2017",
+      "index": "(P) TNI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":12,"name":"PANDEGLANG"},
+        {"value":3,"name":"LEBAK"},
+        {"value":22,"name":"TANGERANG"},
+        {"value":13,"name":"SERANG"},
+        {"value":37,"name":"KOTA TANGERANG"},
+        {"value":6,"name":"KOTA CILEGON"},
+        {"value":34,"name":"KOTA SERANG"},
+        {"value":64,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) KEPOLISIAN",
+      "yyyy": "2017",
+      "index": "(L) KEPOLISIAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":686,"name":"PANDEGLANG"},
+        {"value":746,"name":"LEBAK"},
+        {"value":1706,"name":"TANGERANG"},
+        {"value":591,"name":"SERANG"},
+        {"value":2863,"name":"KOTA TANGERANG"},
+        {"value":738,"name":"KOTA CILEGON"},
+        {"value":1810,"name":"KOTA SERANG"},
+        {"value":2440,"name":"KOTA TANGERANG SELATAN"}        
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) KEPOLISIAN",
+      "yyyy": "2017",
+      "index": "(P) KEPOLISIAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":43,"name":"PANDEGLANG"},
+        {"value":28,"name":"LEBAK"},
+        {"value":64,"name":"TANGERANG"},
+        {"value":24,"name":"SERANG"},
+        {"value":172,"name":"KOTA TANGERANG"},
+        {"value":44,"name":"KOTA CILEGON"},
+        {"value":113,"name":"KOTA SERANG"},
+        {"value":200,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PERDAGANGAN",
+      "yyyy": "2017",
+      "index": "(L) PERDAGANGAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":6939,"name":"PANDEGLANG"},
+        {"value":654,"name":"LEBAK"},
+        {"value":2751,"name":"TANGERANG"},
+        {"value":6747,"name":"SERANG"},
+        {"value":915,"name":"KOTA TANGERANG"},
+        {"value":636,"name":"KOTA CILEGON"},
+        {"value":604,"name":"KOTA SERANG"},
+        {"value":1621,"name":"KOTA TANGERANG SELATAN"}        
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PERDAGANGAN",
+      "yyyy": "2017",
+      "index": "(P) PERDAGANGAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":3337,"name":"PANDEGLANG"},
+        {"value":198,"name":"LEBAK"},
+        {"value":480,"name":"TANGERANG"},
+        {"value":995,"name":"SERANG"},
+        {"value":238,"name":"KOTA TANGERANG"},
+        {"value":214,"name":"KOTA CILEGON"},
+        {"value":99,"name":"KOTA SERANG"},
+        {"value":496,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PETANI/PEKEBUN",
+      "yyyy": "2017",
+      "index": "(L) PETANI/PEKEBUN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":82499,"name":"PANDEGLANG"},
+        {"value":86109,"name":"LEBAK"},
+        {"value":8963,"name":"TANGERANG"},
+        {"value":36584,"name":"SERANG"},
+        {"value":696,"name":"KOTA TANGERANG"},
+        {"value":715,"name":"KOTA CILEGON"},
+        {"value":4142,"name":"KOTA SERANG"},
+        {"value":624,"name":"KOTA TANGERANG SELATAN"}        
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PETANI/PEKEBUN",
+      "yyyy": "2017",
+      "index": "(P) PETANI/PEKEBUN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":19157,"name":"PANDEGLANG"},
+        {"value":13172,"name":"LEBAK"},
+        {"value":441,"name":"TANGERANG"},
+        {"value":4709,"name":"SERANG"},
+        {"value":158,"name":"KOTA TANGERANG"},
+        {"value":58,"name":"KOTA CILEGON"},
+        {"value":324,"name":"KOTA SERANG"},
+        {"value":91,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PETERNAK",
+      "yyyy": "2017",
+      "index": "(L) PETERNAK 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":210,"name":"PANDEGLANG"},
+        {"value":51,"name":"LEBAK"},
+        {"value":121,"name":"TANGERANG"},
+        {"value":83,"name":"SERANG"},
+        {"value":11,"name":"KOTA TANGERANG"},
+        {"value":16,"name":"KOTA CILEGON"},
+        {"value":8,"name":"KOTA SERANG"},
+        {"value":138,"name":"KOTA TANGERANG SELATAN"}        
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PETERNAK",
+      "yyyy": "2017",
+      "index": "(P) PETERNAK 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":55,"name":"PANDEGLANG"},
+        {"value":11,"name":"LEBAK"},
+        {"value":24,"name":"TANGERANG"},
+        {"value":7,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":3,"name":"KOTA CILEGON"},
+        {"value":2,"name":"KOTA SERANG"},
+        {"value":41,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) NELAYAN/PERIKANAN",
+      "yyyy": "2017",
+      "index": "(L) NELAYAN/PERIKANAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":5621,"name":"PANDEGLANG"},
+        {"value":831,"name":"LEBAK"},
+        {"value":4819,"name":"TANGERANG"},
+        {"value":3192,"name":"SERANG"},
+        {"value":21,"name":"KOTA TANGERANG"},
+        {"value":116,"name":"KOTA CILEGON"},
+        {"value":999,"name":"KOTA SERANG"},
+        {"value":66,"name":"KOTA TANGERANG SELATAN"}        
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) NELAYAN/PERIKANAN",
+      "yyyy": "2017",
+      "index": "(P) NELAYAN/PERIKANAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":98,"name":"PANDEGLANG"},
+        {"value":6,"name":"LEBAK"},
+        {"value":28,"name":"TANGERANG"},
+        {"value":35,"name":"SERANG"},
+        {"value":1,"name":"KOTA TANGERANG"},
+        {"value":2,"name":"KOTA CILEGON"},
+        {"value":2,"name":"KOTA SERANG"},
+        {"value":4,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) INDUSTRI",
+      "yyyy": "2017",
+      "index": "(L) INDUSTRI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1264,"name":"PANDEGLANG"},
+        {"value":50,"name":"LEBAK"},
+        {"value":213,"name":"TANGERANG"},
+        {"value":155,"name":"SERANG"},
+        {"value":78,"name":"KOTA TANGERANG"},
+        {"value":52,"name":"KOTA CILEGON"},
+        {"value":10,"name":"KOTA SERANG"},
+        {"value":348,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) INDUSTRI",
+      "yyyy": "2017",
+      "index": "(P) INDUSTRI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":730,"name":"PANDEGLANG"},
+        {"value":11,"name":"LEBAK"},
+        {"value":91,"name":"TANGERANG"},
+        {"value":56,"name":"SERANG"},
+        {"value":45,"name":"KOTA TANGERANG"},
+        {"value":4,"name":"KOTA CILEGON"},
+        {"value":8,"name":"KOTA SERANG"},
+        {"value":155,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) KONSTRUKSI",
+      "yyyy": "2017",
+      "index": "(L) KONSTRUKSI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":573,"name":"PANDEGLANG"},
+        {"value":54,"name":"LEBAK"},
+        {"value":127,"name":"TANGERANG"},
+        {"value":58,"name":"SERANG"},
+        {"value":53,"name":"KOTA TANGERANG"},
+        {"value":70,"name":"KOTA CILEGON"},
+        {"value":21,"name":"KOTA SERANG"},
+        {"value":287,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) KONSTRUKSI",
+      "yyyy": "2017",
+      "index": "(P) KONSTRUKSI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":42,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":19,"name":"TANGERANG"},
+        {"value":5,"name":"SERANG"},
+        {"value":5,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":2,"name":"KOTA SERANG"},
+        {"value":23,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) TRANSPORTASI",
+      "yyyy": "2017",
+      "index": "(L) TRANSPORTASI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2616,"name":"PANDEGLANG"},
+        {"value":168,"name":"LEBAK"},
+        {"value":296,"name":"TANGERANG"},
+        {"value":205,"name":"SERANG"},
+        {"value":164,"name":"KOTA TANGERANG"},
+        {"value":99,"name":"KOTA CILEGON"},
+        {"value":17,"name":"KOTA SERANG"},
+        {"value":378,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) TRANSPORTASI",
+      "yyyy": "2017",
+      "index": "(P) TRANSPORTASI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":49,"name":"PANDEGLANG"},
+        {"value":2,"name":"LEBAK"},
+        {"value":38,"name":"TANGERANG"},
+        {"value":4,"name":"SERANG"},
+        {"value":18,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":11,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) KARYAWAN SWASTA",
+      "yyyy": "2017",
+      "index": "(L) KARYAWAN SWASTA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":22038,"name":"PANDEGLANG"},
+        {"value":23365,"name":"LEBAK"},
+        {"value":372112,"name":"TANGERANG"},
+        {"value":61956,"name":"SERANG"},
+        {"value":310131,"name":"KOTA TANGERANG"},
+        {"value":39430,"name":"KOTA CILEGON"},
+        {"value":30987,"name":"KOTA SERANG"},
+        {"value":196804,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) KARYAWAN SWASTA",
+      "yyyy": "2017",
+      "index": "(P) KARYAWAN SWASTA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":8421,"name":"PANDEGLANG"},
+        {"value":5515,"name":"LEBAK"},
+        {"value":171356,"name":"TANGERANG"},
+        {"value":23875,"name":"SERANG"},
+        {"value":148573,"name":"KOTA TANGERANG"},
+        {"value":7444,"name":"KOTA CILEGON"},
+        {"value":13565,"name":"KOTA SERANG"},
+        {"value":95115,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) KARYAWAN BUMN",
+      "yyyy": "2017",
+      "index": "(L) KARYAWAN BUMN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":806,"name":"PANDEGLANG"},
+        {"value":1071,"name":"LEBAK"},
+        {"value":2067,"name":"TANGERANG"},
+        {"value":1915,"name":"SERANG"},
+        {"value":4371,"name":"KOTA TANGERANG"},
+        {"value":4281,"name":"KOTA CILEGON"},
+        {"value":1375,"name":"KOTA SERANG"},
+        {"value":3135,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) KARYAWAN BUMN",
+      "yyyy": "2017",
+      "index": "(P) KARYAWAN BUMN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":125,"name":"PANDEGLANG"},
+        {"value":138,"name":"LEBAK"},
+        {"value":537,"name":"TANGERANG"},
+        {"value":175,"name":"SERANG"},
+        {"value":1692,"name":"KOTA TANGERANG"},
+        {"value":460,"name":"KOTA CILEGON"},
+        {"value":316,"name":"KOTA SERANG"},
+        {"value":1461,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) KARYAWAN BUMD",
+      "yyyy": "2017",
+      "index": "(L) KARYAWAN BUMD 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":97,"name":"PANDEGLANG"},
+        {"value":125,"name":"LEBAK"},
+        {"value":324,"name":"TANGERANG"},
+        {"value":67,"name":"SERANG"},
+        {"value":316,"name":"KOTA TANGERANG"},
+        {"value":184,"name":"KOTA CILEGON"},
+        {"value":615,"name":"KOTA SERANG"},
+        {"value":148,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) KARYAWAN BUMD",
+      "yyyy": "2017",
+      "index": "(P) KARYAWAN BUMD 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":33,"name":"PANDEGLANG"},
+        {"value":43,"name":"LEBAK"},
+        {"value":92,"name":"TANGERANG"},
+        {"value":21,"name":"SERANG"},
+        {"value":136,"name":"KOTA TANGERANG"},
+        {"value":43,"name":"KOTA CILEGON"},
+        {"value":117,"name":"KOTA SERANG"},
+        {"value":67,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) KARYAWAN HONORER",
+      "yyyy": "2017",
+      "index": "(L) KARYAWAN HONORER 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2097,"name":"PANDEGLANG"},
+        {"value":2242,"name":"LEBAK"},
+        {"value":1694,"name":"TANGERANG"},
+        {"value":1278,"name":"SERANG"},
+        {"value":1180,"name":"KOTA TANGERANG"},
+        {"value":879,"name":"KOTA CILEGON"},
+        {"value":1075,"name":"KOTA SERANG"},
+        {"value":761,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) KARYAWAN HONORER",
+      "yyyy": "2017",
+      "index": "(P) KARYAWAN HONORER 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2117,"name":"PANDEGLANG"},
+        {"value":1900,"name":"LEBAK"},
+        {"value":976,"name":"TANGERANG"},
+        {"value":1055,"name":"SERANG"},
+        {"value":528,"name":"KOTA TANGERANG"},
+        {"value":719,"name":"KOTA CILEGON"},
+        {"value":929,"name":"KOTA SERANG"},
+        {"value":411,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) BURUH HARIAN LEPAS",
+      "yyyy": "2017",
+      "index": "(L) BURUH HARIAN LEPAS 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":34534,"name":"PANDEGLANG"},
+        {"value":99323,"name":"LEBAK"},
+        {"value":164987,"name":"TANGERANG"},
+        {"value":159276,"name":"SERANG"},
+        {"value":36126,"name":"KOTA TANGERANG"},
+        {"value":27734,"name":"KOTA CILEGON"},
+        {"value":38567,"name":"KOTA SERANG"},
+        {"value":14747,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) BURUH HARIAN LEPAS",
+      "yyyy": "2017",
+      "index": "(P) BURUH HARIAN LEPAS 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":3793,"name":"PANDEGLANG"},
+        {"value":8042,"name":"LEBAK"},
+        {"value":3874,"name":"TANGERANG"},
+        {"value":10393,"name":"SERANG"},
+        {"value":1163,"name":"KOTA TANGERANG"},
+        {"value":439,"name":"KOTA CILEGON"},
+        {"value":1898,"name":"KOTA SERANG"},
+        {"value":546,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) BURUH TANI PERKEBUNAN",
+      "yyyy": "2017",
+      "index": "(L) BURUH TANI PERKEBUNAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":7868,"name":"PANDEGLANG"},
+        {"value":13206,"name":"LEBAK"},
+        {"value":7963,"name":"TANGERANG"},
+        {"value":11960,"name":"SERANG"},
+        {"value":769,"name":"KOTA TANGERANG"},
+        {"value":1316,"name":"KOTA CILEGON"},
+        {"value":432,"name":"KOTA SERANG"},
+        {"value":1271,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) BURUH TANI PERKEBUNAN",
+      "yyyy": "2017",
+      "index": "(P) BURUH TANI PERKEBUNAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1071,"name":"PANDEGLANG"},
+        {"value":1828,"name":"LEBAK"},
+        {"value":459,"name":"TANGERANG"},
+        {"value":1292,"name":"SERANG"},
+        {"value":53,"name":"KOTA TANGERANG"},
+        {"value":96,"name":"KOTA CILEGON"},
+        {"value":69,"name":"KOTA SERANG"},
+        {"value":71,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) BURUH NELAYAN PERIKANAN",
+      "yyyy": "2017",
+      "index": "(L) BURUH NELAYAN PERIKANAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":405,"name":"PANDEGLANG"},
+        {"value":774,"name":"LEBAK"},
+        {"value":989,"name":"TANGERANG"},
+        {"value":1381,"name":"SERANG"},
+        {"value":7,"name":"KOTA TANGERANG"},
+        {"value":114,"name":"KOTA CILEGON"},
+        {"value":87,"name":"KOTA SERANG"},
+        {"value":24,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) BURUH NELAYAN PERIKANAN",
+      "yyyy": "2017",
+      "index": "(P) BURUH NELAYAN PERIKANAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":17,"name":"PANDEGLANG"},
+        {"value":13,"name":"LEBAK"},
+        {"value":22,"name":"TANGERANG"},
+        {"value":26,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":8,"name":"KOTA SERANG"},
+        {"value":5,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) BURUH PETERNAKAN",
+      "yyyy": "2017",
+      "index": "(L) BURUH PETERNAKAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":51,"name":"PANDEGLANG"},
+        {"value":66,"name":"LEBAK"},
+        {"value":134,"name":"TANGERANG"},
+        {"value":92,"name":"SERANG"},
+        {"value":22,"name":"KOTA TANGERANG"},
+        {"value":15,"name":"KOTA CILEGON"},
+        {"value":12,"name":"KOTA SERANG"},
+        {"value":24,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) BURUH PETERNAKAN",
+      "yyyy": "2017",
+      "index": "(P) BURUH PETERNAKAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":18,"name":"PANDEGLANG"},
+        {"value":5,"name":"LEBAK"},
+        {"value":17,"name":"TANGERANG"},
+        {"value":23,"name":"SERANG"},
+        {"value":1,"name":"KOTA TANGERANG"},
+        {"value":4,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":10,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PEMBANTU RUMAH TANGGA",
+      "yyyy": "2017",
+      "index": "(L) PEMBANTU RUMAH TANGGA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":27,"name":"PANDEGLANG"},
+        {"value":32,"name":"LEBAK"},
+        {"value":13,"name":"TANGERANG"},
+        {"value":13,"name":"SERANG"},
+        {"value":7,"name":"KOTA TANGERANG"},
+        {"value":7,"name":"KOTA CILEGON"},
+        {"value":2,"name":"KOTA SERANG"},
+        {"value":36,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PEMBANTU RUMAH TANGGA",
+      "yyyy": "2017",
+      "index": "(P) PEMBANTU RUMAH TANGGA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":365,"name":"PANDEGLANG"},
+        {"value":709,"name":"LEBAK"},
+        {"value":463,"name":"TANGERANG"},
+        {"value":428,"name":"SERANG"},
+        {"value":325,"name":"KOTA TANGERANG"},
+        {"value":160,"name":"KOTA CILEGON"},
+        {"value":51,"name":"KOTA SERANG"},
+        {"value":525,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) TUKANG CUKUR",
+      "yyyy": "2017",
+      "index": "(L) TUKANG CUKUR 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":14,"name":"PANDEGLANG"},
+        {"value":9,"name":"LEBAK"},
+        {"value":24,"name":"TANGERANG"},
+        {"value":11,"name":"SERANG"},
+        {"value":5,"name":"KOTA TANGERANG"},
+        {"value":21,"name":"KOTA CILEGON"},
+        {"value":7,"name":"KOTA SERANG"},
+        {"value":6,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) TUKANG CUKUR",
+      "yyyy": "2017",
+      "index": "(P) TUKANG CUKUR 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":1,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":3,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) TUKANG LISTRIK",
+      "yyyy": "2017",
+      "index": "(L) TUKANG LISTRIK 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":31,"name":"PANDEGLANG"},
+        {"value":14,"name":"LEBAK"},
+        {"value":35,"name":"TANGERANG"},
+        {"value":24,"name":"SERANG"},
+        {"value":17,"name":"KOTA TANGERANG"},
+        {"value":20,"name":"KOTA CILEGON"},
+        {"value":6,"name":"KOTA SERANG"},
+        {"value":20,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) TUKANG LISTRIK",
+      "yyyy": "2017",
+      "index": "(P) TUKANG LISTRIK 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2,"name":"PANDEGLANG"},
+        {"value":2,"name":"LEBAK"},
+        {"value":1,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) TUKANG BATU",
+      "yyyy": "2017",
+      "index": "(L) TUKANG BATU 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":29,"name":"PANDEGLANG"},
+        {"value":28,"name":"LEBAK"},
+        {"value":159,"name":"TANGERANG"},
+        {"value":64,"name":"SERANG"},
+        {"value":79,"name":"KOTA TANGERANG"},
+        {"value":49,"name":"KOTA CILEGON"},
+        {"value":5,"name":"KOTA SERANG"},
+        {"value":109,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) TUKANG BATU",
+      "yyyy": "2017",
+      "index": "(P) TUKANG BATU 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":5,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":2,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) TUKANG KAYU",
+      "yyyy": "2017",
+      "index": "(L) TUKANG KAYU 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":70,"name":"PANDEGLANG"},
+        {"value":109,"name":"LEBAK"},
+        {"value":130,"name":"TANGERANG"},
+        {"value":99,"name":"SERANG"},
+        {"value":33,"name":"KOTA TANGERANG"},
+        {"value":31,"name":"KOTA CILEGON"},
+        {"value":7,"name":"KOTA SERANG"},
+        {"value":42,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) TUKANG KAYU",
+      "yyyy": "2017",
+      "index": "(P) TUKANG KAYU 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":3,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":1,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) TUKANG SOL SEPATU",
+      "yyyy": "2017",
+      "index": "(L) TUKANG SOL SEPATU 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":8,"name":"PANDEGLANG"},
+        {"value":5,"name":"LEBAK"},
+        {"value":21,"name":"TANGERANG"},
+        {"value":6,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":6,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) TUKANG SOL SEPATU",
+      "yyyy": "2017",
+      "index": "(P) TUKANG SOL SEPATU 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":3,"name":"TANGERANG"},
+        {"value":4,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) TUKANG LAS/PANDAI BESI",
+      "yyyy": "2017",
+      "index": "(L) TUKANG LAS/PANDAI BESI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":24,"name":"PANDEGLANG"},
+        {"value":82,"name":"LEBAK"},
+        {"value":51,"name":"TANGERANG"},
+        {"value":74,"name":"SERANG"},
+        {"value":17,"name":"KOTA TANGERANG"},
+        {"value":24,"name":"KOTA CILEGON"},
+        {"value":8,"name":"KOTA SERANG"},
+        {"value":21,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) TUKANG LAS/PANDAI BESI",
+      "yyyy": "2017",
+      "index": "(P) TUKANG LAS/PANDAI BESI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":6,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":2,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) TUKANG JAHIT",
+      "yyyy": "2017",
+      "index": "(L) TUKANG JAHIT 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":83,"name":"PANDEGLANG"},
+        {"value":82,"name":"LEBAK"},
+        {"value":171,"name":"TANGERANG"},
+        {"value":103,"name":"SERANG"},
+        {"value":120,"name":"KOTA TANGERANG"},
+        {"value":50,"name":"KOTA CILEGON"},
+        {"value":17,"name":"KOTA SERANG"},
+        {"value":87,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) TUKANG JAHIT",
+      "yyyy": "2017",
+      "index": "(P) TUKANG JAHIT 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":19,"name":"PANDEGLANG"},
+        {"value":21,"name":"LEBAK"},
+        {"value":46,"name":"TANGERANG"},
+        {"value":25,"name":"SERANG"},
+        {"value":53,"name":"KOTA TANGERANG"},
+        {"value":25,"name":"KOTA CILEGON"},
+        {"value":6,"name":"KOTA SERANG"},
+        {"value":37,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) TUKANG GIGI",
+      "yyyy": "2017",
+      "index": "(L) TUKANG GIGI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":4,"name":"PANDEGLANG"},
+        {"value":2,"name":"LEBAK"},
+        {"value":4,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":2,"name":"KOTA SERANG"},
+        {"value":3,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) TUKANG GIGI",
+      "yyyy": "2017",
+      "index": "(P) TUKANG GIGI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":1,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":3,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PENATA RIAS",
+      "yyyy": "2017",
+      "index": "(L) PENATA RIAS 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":5,"name":"PANDEGLANG"},
+        {"value":5,"name":"LEBAK"},
+        {"value":19,"name":"TANGERANG"},
+        {"value":8,"name":"SERANG"},
+        {"value":6,"name":"KOTA TANGERANG"},
+        {"value":2,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":2,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PENATA RIAS",
+      "yyyy": "2017",
+      "index": "(P) PENATA RIAS 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":14,"name":"PANDEGLANG"},
+        {"value":10,"name":"LEBAK"},
+        {"value":27,"name":"TANGERANG"},
+        {"value":17,"name":"SERANG"},
+        {"value":25,"name":"KOTA TANGERANG"},
+        {"value":20,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":13,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PENATA BUSANA",
+      "yyyy": "2017",
+      "index": "(L) PENATA BUSANA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":7,"name":"PANDEGLANG"},
+        {"value":6,"name":"LEBAK"},
+        {"value":1,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":1,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":2,"name":"KOTA SERANG"},
+        {"value":10,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PENATA BUSANA",
+      "yyyy": "2017",
+      "index": "(P) PENATA BUSANA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":8,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":5,"name":"KOTA TANGERANG"},
+        {"value":2,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":22,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PENATA RAMBUT",
+      "yyyy": "2017",
+      "index": "(L) PENATA RAMBUT 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":4,"name":"PANDEGLANG"},
+        {"value":2,"name":"LEBAK"},
+        {"value":12,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":7,"name":"KOTA TANGERANG"},
+        {"value":2,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":10,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PENATA RAMBUT",
+      "yyyy": "2017",
+      "index": "(P) PENATA RAMBUT 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":5,"name":"PANDEGLANG"},
+        {"value":3,"name":"LEBAK"},
+        {"value":16,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":9,"name":"KOTA TANGERANG"},
+        {"value":10,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":10,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) MEKANIK",
+      "yyyy": "2017",
+      "index": "(L) MEKANIK 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":113,"name":"PANDEGLANG"},
+        {"value":89,"name":"LEBAK"},
+        {"value":236,"name":"TANGERANG"},
+        {"value":92,"name":"SERANG"},
+        {"value":133,"name":"KOTA TANGERANG"},
+        {"value":89,"name":"KOTA CILEGON"},
+        {"value":25,"name":"KOTA SERANG"},
+        {"value":114,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) MEKANIK",
+      "yyyy": "2017",
+      "index": "(P) MEKANIK 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":7,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) SENIMAN",
+      "yyyy": "2017",
+      "index": "(L) SENIMAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":12,"name":"PANDEGLANG"},
+        {"value":11,"name":"LEBAK"},
+        {"value":99,"name":"TANGERANG"},
+        {"value":7,"name":"SERANG"},
+        {"value":197,"name":"KOTA TANGERANG"},
+        {"value":26,"name":"KOTA CILEGON"},
+        {"value":21,"name":"KOTA SERANG"},
+        {"value":290,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) SENIMAN",
+      "yyyy": "2017",
+      "index": "(P) SENIMAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":2,"name":"LEBAK"},
+        {"value":15,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":30,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":52,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) TABIB",
+      "yyyy": "2017",
+      "index": "(L) TABIB 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":3,"name":"PANDEGLANG"},
+        {"value":2,"name":"LEBAK"},
+        {"value":9,"name":"TANGERANG"},
+        {"value":7,"name":"SERANG"},
+        {"value":8,"name":"KOTA TANGERANG"},
+        {"value":6,"name":"KOTA CILEGON"},
+        {"value":2,"name":"KOTA SERANG"},
+        {"value":3,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) TABIB",
+      "yyyy": "2017",
+      "index": "(P) TABIB 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":1,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":1,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PARAJI",
+      "yyyy": "2017",
+      "index": "(L) PARAJI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":4,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":2,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":1,"name":"KOTA TANGERANG"},
+        {"value":2,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":2,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PARAJI",
+      "yyyy": "2017",
+      "index": "(P) PARAJI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":21,"name":"PANDEGLANG"},
+        {"value":35,"name":"LEBAK"},
+        {"value":35,"name":"TANGERANG"},
+        {"value":542,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":4,"name":"KOTA SERANG"},
+        {"value":10,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PERANCANG BUSANA",
+      "yyyy": "2017",
+      "index": "(L) PERANCANG BUSANA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":10,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":7,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PERANCANG BUSANA",
+      "yyyy": "2017",
+      "index": "(P) PERANCANG BUSANA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":2,"name":"LEBAK"},
+        {"value":4,"name":"TANGERANG"},
+        {"value":4,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":8,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PENTERJEMAH",
+      "yyyy": "2017",
+      "index": "(L) PENTERJEMAH 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":4,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":3,"name":"TANGERANG"},
+        {"value":9,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":8,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PENTERJEMAH",
+      "yyyy": "2017",
+      "index": "(P) PENTERJEMAH 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":2,"name":"LEBAK"},
+        {"value":4,"name":"TANGERANG"},
+        {"value":4,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":7,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) IMAM MESJID",
+      "yyyy": "2017",
+      "index": "(L) IMAM MESJID 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":20,"name":"PANDEGLANG"},
+        {"value":35,"name":"LEBAK"},
+        {"value":44,"name":"TANGERANG"},
+        {"value":37,"name":"SERANG"},
+        {"value":14,"name":"KOTA TANGERANG"},
+        {"value":18,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":3,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) IMAM MESJID",
+      "yyyy": "2017",
+      "index": "(P) IMAM MESJID 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PENDETA",
+      "yyyy": "2017",
+      "index": "(L) PENDETA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":3,"name":"PANDEGLANG"},
+        {"value":5,"name":"LEBAK"},
+        {"value":202,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":279,"name":"KOTA TANGERANG"},
+        {"value":8,"name":"KOTA CILEGON"},
+        {"value":9,"name":"KOTA SERANG"},
+        {"value":196,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PENDETA",
+      "yyyy": "2017",
+      "index": "(P) PENDETA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":64,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":91,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":87,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PASTOR",
+      "yyyy": "2017",
+      "index": "(L) PASTOR 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":7,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":12,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":10,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PASTOR",
+      "yyyy": "2017",
+      "index": "(P) PASTOR 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) WARTAWAN",
+      "yyyy": "2017",
+      "index": "(L) WARTAWAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":48,"name":"PANDEGLANG"},
+        {"value":41,"name":"LEBAK"},
+        {"value":227,"name":"TANGERANG"},
+        {"value":43,"name":"SERANG"},
+        {"value":522,"name":"KOTA TANGERANG"},
+        {"value":22,"name":"KOTA CILEGON"},
+        {"value":53,"name":"KOTA SERANG"},
+        {"value":533,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) WARTAWAN",
+      "yyyy": "2017",
+      "index": "(P) WARTAWAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":3,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":19,"name":"TANGERANG"},
+        {"value":3,"name":"SERANG"},
+        {"value":69,"name":"KOTA TANGERANG"},
+        {"value":3,"name":"KOTA CILEGON"},
+        {"value":6,"name":"KOTA SERANG"},
+        {"value":110,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) USTADZ/MUBALIGH",
+      "yyyy": "2017",
+      "index": "(L) USTADZ/MUBALIGH 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":428,"name":"PANDEGLANG"},
+        {"value":777,"name":"LEBAK"},
+        {"value":1361,"name":"TANGERANG"},
+        {"value":703,"name":"SERANG"},
+        {"value":129,"name":"KOTA TANGERANG"},
+        {"value":84,"name":"KOTA CILEGON"},
+        {"value":146,"name":"KOTA SERANG"},
+        {"value":77,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) USTADZ/MUBALIGH",
+      "yyyy": "2017",
+      "index": "(P) USTADZ/MUBALIGH 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":15,"name":"PANDEGLANG"},
+        {"value":39,"name":"LEBAK"},
+        {"value":91,"name":"TANGERANG"},
+        {"value":26,"name":"SERANG"},
+        {"value":21,"name":"KOTA TANGERANG"},
+        {"value":8,"name":"KOTA CILEGON"},
+        {"value":10,"name":"KOTA SERANG"},
+        {"value":17,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) JURU MASAK",
+      "yyyy": "2017",
+      "index": "(L) JURU MASAK 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":4,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":6,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":4,"name":"KOTA TANGERANG"},
+        {"value":7,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":14,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) JURU MASAK",
+      "yyyy": "2017",
+      "index": "(P) JURU MASAK 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2,"name":"PANDEGLANG"},
+        {"value":2,"name":"LEBAK"},
+        {"value":10,"name":"TANGERANG"},
+        {"value":6,"name":"SERANG"},
+        {"value":6,"name":"KOTA TANGERANG"},
+        {"value":5,"name":"KOTA CILEGON"},
+        {"value":2,"name":"KOTA SERANG"},
+        {"value":8,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PROMOTOR ACARA",
+      "yyyy": "2017",
+      "index": "(L) PROMOTOR ACARA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":2,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PROMOTOR ACARA",
+      "yyyy": "2017",
+      "index": "(P) PROMOTOR ACARA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) ANGGOTA DPR RI",
+      "yyyy": "2017",
+      "index": "(L) ANGGOTA DPR RI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":3,"name":"LEBAK"},
+        {"value":8,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":6,"name":"KOTA SERANG"},
+        {"value":16,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) ANGGOTA DPR RI",
+      "yyyy": "2017",
+      "index": "(P) ANGGOTA DRR RI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) ANGGOTA DPD",
+      "yyyy": "2017",
+      "index": "(L) ANGGOTA DPD 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":2,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":1,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) ANGGOTA DPD",
+      "yyyy": "2017",
+      "index": "(P) ANGGOTA DPD 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) ANGGOTA BPK",
+      "yyyy": "2017",
+      "index": "(L) ANGGOTA BPK 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":5,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":2,"name":"KOTA SERANG"},
+        {"value":13,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) ANGGOTA BPK",
+      "yyyy": "2017",
+      "index": "(P) ANGGOTA BPK 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":4,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PRESIDEN",
+      "yyyy": "2017",
+      "index": "(L) PRESIDEN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PRESIDEN",
+      "yyyy": "2017",
+      "index": "(P) PRESIDEN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) WAKIL PRESIDEN",
+      "yyyy": "2017",
+      "index": "(L) WAKIL PRESIDEN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) WAKIL PRESIDEN",
+      "yyyy": "2017",
+      "index": "(P) WAKIL PRESIDEN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) ANGGOTA MAHKAMAH KONSTITUSI",
+      "yyyy": "2017",
+      "index": "(L) ANGGOTA MAHKAMAH KONSTITUSI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) ANGGOTA MAHKAMAH KONSTITUSI",
+      "yyyy": "2017",
+      "index": "(P) ANGGOTA MAHKAMAH KONSTITUSI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) ANGGOTA KABINET/KEMENTERIAN",
+      "yyyy": "2017",
+      "index": "(L) ANGGOTA KABINET/KEMENTERIAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) ANGGOTA KABINET/KEMENTERIAN",
+      "yyyy": "2017",
+      "index": "(P) ANGGOTA KABINET/KEMENTERIAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) DUTA BESAR",
+      "yyyy": "2017",
+      "index": "(L) DUTA BESAR 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":2,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) DUTA BESAR",
+      "yyyy": "2017",
+      "index": "(P) DUTA BESAR 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":3,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GUBERNUR",
+      "yyyy": "2017",
+      "index": "(L) GUBERNUR 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GUBERNUR",
+      "yyyy": "2017",
+      "index": "(P) GUBERNUR 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) WAKIL GUBERNUR",
+      "yyyy": "2017",
+      "index": "(L) WAKIL GUBERNUR 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) WAKIL GUBERNUR",
+      "yyyy": "2017",
+      "index": "(P) WAKIL GUBERNUR 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) BUPATI",
+      "yyyy": "2017",
+      "index": "(L) BUPATI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":2,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) BUPATI",
+      "yyyy": "2017",
+      "index": "(P) BUPATI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) WAKIL BUPATI",
+      "yyyy": "2017",
+      "index": "(L) WAKIL BUPATI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) WAKIL BUPATI",
+      "yyyy": "2017",
+      "index": "(P) WAKIL BUPATI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) WALIKOTA",
+      "yyyy": "2017",
+      "index": "(L) WALIKOTA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":1,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) WALIKOTA",
+      "yyyy": "2017",
+      "index": "(P) WALIKOTA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) WAKIL WALIKOTA",
+      "yyyy": "2017",
+      "index": "(L) WAKIL WALIKOTA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":1,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) WAKIL WALIKOTA",
+      "yyyy": "2017",
+      "index": "(P) WAKIL WALIKOTA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) ANGGOTA DPRD PROVINSI",
+      "yyyy": "2017",
+      "index": "(L) ANGGOTA DPRD PROVINSI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":3,"name":"LEBAK"},
+        {"value":2,"name":"TANGERANG"},
+        {"value":3,"name":"SERANG"},
+        {"value":5,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":6,"name":"KOTA SERANG"},
+        {"value":6,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) ANGGOTA DPRD PROVINSI",
+      "yyyy": "2017",
+      "index": "(P) ANGGOTA DPRD PROVINSI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":5,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":3,"name":"KOTA SERANG"},
+        {"value":5,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) ANGGOTA DPRD KABUPATEN/KOTA",
+      "yyyy": "2017",
+      "index": "(L) ANGGOTA DPRD KABUPATEN/KOTA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":19,"name":"PANDEGLANG"},
+        {"value":23,"name":"LEBAK"},
+        {"value":20,"name":"TANGERANG"},
+        {"value":23,"name":"SERANG"},
+        {"value":20,"name":"KOTA TANGERANG"},
+        {"value":13,"name":"KOTA CILEGON"},
+        {"value":11,"name":"KOTA SERANG"},
+        {"value":25,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) ANGGOTA DPRD KABUPATEN/KOTA",
+      "yyyy": "2017",
+      "index": "(P) ANGGOTA DPRD KABUPATEN/KOTA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":6,"name":"PANDEGLANG"},
+        {"value":3,"name":"LEBAK"},
+        {"value":3,"name":"TANGERANG"},
+        {"value":5,"name":"SERANG"},
+        {"value":3,"name":"KOTA TANGERANG"},
+        {"value":2,"name":"KOTA CILEGON"},
+        {"value":4,"name":"KOTA SERANG"},
+        {"value":8,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) DOSEN",
+      "yyyy": "2017",
+      "index": "(L) DOSEN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":80,"name":"PANDEGLANG"},
+        {"value":54,"name":"LEBAK"},
+        {"value":339,"name":"TANGERANG"},
+        {"value":60,"name":"SERANG"},
+        {"value":531,"name":"KOTA TANGERANG"},
+        {"value":82,"name":"KOTA CILEGON"},
+        {"value":179,"name":"KOTA SERANG"},
+        {"value":927,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) DOSEN",
+      "yyyy": "2017",
+      "index": "(P) DOSEN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":32,"name":"PANDEGLANG"},
+        {"value":32,"name":"LEBAK"},
+        {"value":211,"name":"TANGERANG"},
+        {"value":41,"name":"SERANG"},
+        {"value":367,"name":"KOTA TANGERANG"},
+        {"value":69,"name":"KOTA CILEGON"},
+        {"value":117,"name":"KOTA SERANG"},
+        {"value":703,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GURU",
+      "yyyy": "2017",
+      "index": "(L) GURU 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1035,"name":"PANDEGLANG"},
+        {"value":1562,"name":"LEBAK"},
+        {"value":5904,"name":"TANGERANG"},
+        {"value":1748,"name":"SERANG"},
+        {"value":4588,"name":"KOTA TANGERANG"},
+        {"value":803,"name":"KOTA CILEGON"},
+        {"value":751,"name":"KOTA SERANG"},
+        {"value":2974,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GURU",
+      "yyyy": "2017",
+      "index": "(P) GURU 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1672,"name":"PANDEGLANG"},
+        {"value":1780,"name":"LEBAK"},
+        {"value":10667,"name":"TANGERANG"},
+        {"value":2429,"name":"SERANG"},
+        {"value":11195,"name":"KOTA TANGERANG"},
+        {"value":2348,"name":"KOTA CILEGON"},
+        {"value":1805,"name":"KOTA SERANG"},
+        {"value":6876,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PILOT",
+      "yyyy": "2017",
+      "index": "(L) PILOT 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":76,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":111,"name":"KOTA TANGERANG"},
+        {"value":3,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":265,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PILOT",
+      "yyyy": "2017",
+      "index": "(P) PILOT 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":3,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PENGACARA",
+      "yyyy": "2017",
+      "index": "(L) PENGACARA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":11,"name":"PANDEGLANG"},
+        {"value":9,"name":"LEBAK"},
+        {"value":98,"name":"TANGERANG"},
+        {"value":3,"name":"SERANG"},
+        {"value":167,"name":"KOTA TANGERANG"},
+        {"value":10,"name":"KOTA CILEGON"},
+        {"value":27,"name":"KOTA SERANG"},
+        {"value":205,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PENGACARA",
+      "yyyy": "2017",
+      "index": "(P) PENGACARA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":10,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":32,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":4,"name":"KOTA SERANG"},
+        {"value":36,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) NOTARIS",
+      "yyyy": "2017",
+      "index": "(L) NOTARIS 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":7,"name":"PANDEGLANG"},
+        {"value":6,"name":"LEBAK"},
+        {"value":14,"name":"TANGERANG"},
+        {"value":3,"name":"SERANG"},
+        {"value":30,"name":"KOTA TANGERANG"},
+        {"value":6,"name":"KOTA CILEGON"},
+        {"value":7,"name":"KOTA SERANG"},
+        {"value":27,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) NOTARIS",
+      "yyyy": "2017",
+      "index": "(P) NOTARIS 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":24,"name":"TANGERANG"},
+        {"value":4,"name":"SERANG"},
+        {"value":32,"name":"KOTA TANGERANG"},
+        {"value":11,"name":"KOTA CILEGON"},
+        {"value":8,"name":"KOTA SERANG"},
+        {"value":76,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) ARSITEK",
+      "yyyy": "2017",
+      "index": "(L) ARSITEK 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2,"name":"PANDEGLANG"},
+        {"value":2,"name":"LEBAK"},
+        {"value":27,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":30,"name":"KOTA TANGERANG"},
+        {"value":4,"name":"KOTA CILEGON"},
+        {"value":6,"name":"KOTA SERANG"},
+        {"value":93,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) ARSITEK",
+      "yyyy": "2017",
+      "index": "(P) ARSITEK 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":11,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":8,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":29,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) AKUNTAN",
+      "yyyy": "2017",
+      "index": "(L) AKUNTAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":5,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":9,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":4,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":23,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) AKUNTAN",
+      "yyyy": "2017",
+      "index": "(P) AKUNTAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":3,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":6,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":5,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":17,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) KONSULTAN",
+      "yyyy": "2017",
+      "index": "(L) KONSULTAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":24,"name":"PANDEGLANG"},
+        {"value":16,"name":"LEBAK"},
+        {"value":57,"name":"TANGERANG"},
+        {"value":12,"name":"SERANG"},
+        {"value":81,"name":"KOTA TANGERANG"},
+        {"value":14,"name":"KOTA CILEGON"},
+        {"value":24,"name":"KOTA SERANG"},
+        {"value":184,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) KONSULTAN",
+      "yyyy": "2017",
+      "index": "(P) KONSULTAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":4,"name":"PANDEGLANG"},
+        {"value":3,"name":"LEBAK"},
+        {"value":12,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":12,"name":"KOTA TANGERANG"},
+        {"value":5,"name":"KOTA CILEGON"},
+        {"value":10,"name":"KOTA SERANG"},
+        {"value":64,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) DOKTER",
+      "yyyy": "2017",
+      "index": "(L) DOKTER 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":35,"name":"PANDEGLANG"},
+        {"value":32,"name":"LEBAK"},
+        {"value":352,"name":"TANGERANG"},
+        {"value":37,"name":"SERANG"},
+        {"value":542,"name":"KOTA TANGERANG"},
+        {"value":76,"name":"KOTA CILEGON"},
+        {"value":77,"name":"KOTA SERANG"},
+        {"value":654,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) DOKTER",
+      "yyyy": "2017",
+      "index": "(P) DOKTER 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":37,"name":"PANDEGLANG"},
+        {"value":46,"name":"LEBAK"},
+        {"value":540,"name":"TANGERANG"},
+        {"value":63,"name":"SERANG"},
+        {"value":1033,"name":"KOTA TANGERANG"},
+        {"value":162,"name":"KOTA CILEGON"},
+        {"value":136,"name":"KOTA SERANG"},
+        {"value":1393,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) BIDAN",
+      "yyyy": "2017",
+      "index": "(L) BIDAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":5,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":1,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) BIDAN",
+      "yyyy": "2017",
+      "index": "(P) BIDAN 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":563,"name":"PANDEGLANG"},
+        {"value":588,"name":"LEBAK"},
+        {"value":1670,"name":"TANGERANG"},
+        {"value":455,"name":"SERANG"},
+        {"value":1017,"name":"KOTA TANGERANG"},
+        {"value":277,"name":"KOTA CILEGON"},
+        {"value":463,"name":"KOTA SERANG"},
+        {"value":496,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PERAWAT",
+      "yyyy": "2017",
+      "index": "(L) PERAWAT 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":167,"name":"PANDEGLANG"},
+        {"value":207,"name":"LEBAK"},
+        {"value":251,"name":"TANGERANG"},
+        {"value":87,"name":"SERANG"},
+        {"value":104,"name":"KOTA TANGERANG"},
+        {"value":24,"name":"KOTA CILEGON"},
+        {"value":55,"name":"KOTA SERANG"},
+        {"value":70,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PERAWAT",
+      "yyyy": "2017",
+      "index": "(P) PERAWAT 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":239,"name":"PANDEGLANG"},
+        {"value":311,"name":"LEBAK"},
+        {"value":921,"name":"TANGERANG"},
+        {"value":197,"name":"SERANG"},
+        {"value":1014,"name":"KOTA TANGERANG"},
+        {"value":208,"name":"KOTA CILEGON"},
+        {"value":230,"name":"KOTA SERANG"},
+        {"value":679,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) APOTEKER",
+      "yyyy": "2017",
+      "index": "(L) APOTEKER 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":3,"name":"LEBAK"},
+        {"value":15,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":9,"name":"KOTA TANGERANG"},
+        {"value":5,"name":"KOTA CILEGON"},
+        {"value":7,"name":"KOTA SERANG"},
+        {"value":16,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) APOTEKER",
+      "yyyy": "2017",
+      "index": "(P) APOTEKER 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":18,"name":"PANDEGLANG"},
+        {"value":7,"name":"LEBAK"},
+        {"value":44,"name":"TANGERANG"},
+        {"value":8,"name":"SERANG"},
+        {"value":53,"name":"KOTA TANGERANG"},
+        {"value":26,"name":"KOTA CILEGON"},
+        {"value":23,"name":"KOTA SERANG"},
+        {"value":75,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PSIKIATER/PSIKOLOG",
+      "yyyy": "2017",
+      "index": "(L) PSIKIATER/PSIKOLOG 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":3,"name":"TANGERANG"},
+        {"value":1,"name":"SERANG"},
+        {"value":5,"name":"KOTA TANGERANG"},
+        {"value":3,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":4,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PSIKIATER/PSIKOLOG",
+      "yyyy": "2017",
+      "index": "(P) PSIKIATER/PSIKOLOG 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":10,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":8,"name":"KOTA TANGERANG"},
+        {"value":6,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":38,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PENYIAR TELEVISI",
+      "yyyy": "2017",
+      "index": "(L) PENYIAR TELEVISI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":2,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":2,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PENYIAR TELEVISI",
+      "yyyy": "2017",
+      "index": "(P) PENYIAR TELEVISI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":3,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PENYIAR RADIO",
+      "yyyy": "2017",
+      "index": "(L) PENYIAR RADIO 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":1,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":1,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":4,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PENYIAR RADIO",
+      "yyyy": "2017",
+      "index": "(P) PENYIAR RADIO 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":1,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":2,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PELAUT",
+      "yyyy": "2017",
+      "index": "(L) PELAUT 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":56,"name":"PANDEGLANG"},
+        {"value":37,"name":"LEBAK"},
+        {"value":206,"name":"TANGERANG"},
+        {"value":42,"name":"SERANG"},
+        {"value":122,"name":"KOTA TANGERANG"},
+        {"value":119,"name":"KOTA CILEGON"},
+        {"value":45,"name":"KOTA SERANG"},
+        {"value":113,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PELAUT",
+      "yyyy": "2017",
+      "index": "(P) PELAUT 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":0,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":5,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":1,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PENELITI",
+      "yyyy": "2017",
+      "index": "(L) PENELITI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":27,"name":"PANDEGLANG"},
+        {"value":28,"name":"LEBAK"},
+        {"value":73,"name":"TANGERANG"},
+        {"value":5,"name":"SERANG"},
+        {"value":13,"name":"KOTA TANGERANG"},
+        {"value":6,"name":"KOTA CILEGON"},
+        {"value":3,"name":"KOTA SERANG"},
+        {"value":36,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PENELITI",
+      "yyyy": "2017",
+      "index": "(P) PENELITI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":4,"name":"PANDEGLANG"},
+        {"value":3,"name":"LEBAK"},
+        {"value":2,"name":"TANGERANG"},
+        {"value":2,"name":"SERANG"},
+        {"value":3,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":12,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) SOPIR",
+      "yyyy": "2017",
+      "index": "(L) SOPIR 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1666,"name":"PANDEGLANG"},
+        {"value":5122,"name":"LEBAK"},
+        {"value":5741,"name":"TANGERANG"},
+        {"value":1936,"name":"SERANG"},
+        {"value":2585,"name":"KOTA TANGERANG"},
+        {"value":926,"name":"KOTA CILEGON"},
+        {"value":436,"name":"KOTA SERANG"},
+        {"value":1667,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) SOPIR",
+      "yyyy": "2017",
+      "index": "(P) SOPIR 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":11,"name":"PANDEGLANG"},
+        {"value":6,"name":"LEBAK"},
+        {"value":4,"name":"TANGERANG"},
+        {"value":3,"name":"SERANG"},
+        {"value":3,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":2,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PIALANG",
+      "yyyy": "2017",
+      "index": "(L) PIALANG 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":11,"name":"TANGERANG"},
+        {"value":6,"name":"SERANG"},
+        {"value":3,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":3,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PIALANG",
+      "yyyy": "2017",
+      "index": "(P) PIALANG 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":4,"name":"TANGERANG"},
+        {"value":42,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":1,"name":"KOTA SERANG"},
+        {"value":9,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PARANORMAL",
+      "yyyy": "2017",
+      "index": "(L) PARANORMAL 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":8,"name":"PANDEGLANG"},
+        {"value":1,"name":"LEBAK"},
+        {"value":13,"name":"TANGERANG"},
+        {"value":3,"name":"SERANG"},
+        {"value":6,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":5,"name":"KOTA SERANG"},
+        {"value":5,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PARANORMAL",
+      "yyyy": "2017",
+      "index": "(P) PARANORMAL 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":2,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":2,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PEDAGANG",
+      "yyyy": "2017",
+      "index": "(L) PEDAGANG 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2088,"name":"PANDEGLANG"},
+        {"value":4581,"name":"LEBAK"},
+        {"value":12407,"name":"TANGERANG"},
+        {"value":2311,"name":"SERANG"},
+        {"value":3190,"name":"KOTA TANGERANG"},
+        {"value":1516,"name":"KOTA CILEGON"},
+        {"value":1579,"name":"KOTA SERANG"},
+        {"value":2097,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PEDAGANG",
+      "yyyy": "2017",
+      "index": "(P) PEDAGANG 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":774,"name":"PANDEGLANG"},
+        {"value":1182,"name":"LEBAK"},
+        {"value":1680,"name":"TANGERANG"},
+        {"value":391,"name":"SERANG"},
+        {"value":783,"name":"KOTA TANGERANG"},
+        {"value":457,"name":"KOTA CILEGON"},
+        {"value":270,"name":"KOTA SERANG"},
+        {"value":459,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) PERANGKAT DESA",
+      "yyyy": "2017",
+      "index": "(L) PERANGKAT DESA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":96,"name":"PANDEGLANG"},
+        {"value":356,"name":"LEBAK"},
+        {"value":1377,"name":"TANGERANG"},
+        {"value":412,"name":"SERANG"},
+        {"value":95,"name":"KOTA TANGERANG"},
+        {"value":14,"name":"KOTA CILEGON"},
+        {"value":66,"name":"KOTA SERANG"},
+        {"value":155,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) PERANGKAT DESA",
+      "yyyy": "2017",
+      "index": "(P) PERANGKAT DESA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":12,"name":"PANDEGLANG"},
+        {"value":64,"name":"LEBAK"},
+        {"value":35,"name":"TANGERANG"},
+        {"value":34,"name":"SERANG"},
+        {"value":15,"name":"KOTA TANGERANG"},
+        {"value":1,"name":"KOTA CILEGON"},
+        {"value":11,"name":"KOTA SERANG"},
+        {"value":20,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) KEPALA DESA",
+      "yyyy": "2017",
+      "index": "(L) KEPALA DESA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":94,"name":"PANDEGLANG"},
+        {"value":103,"name":"LEBAK"},
+        {"value":199,"name":"TANGERANG"},
+        {"value":205,"name":"SERANG"},
+        {"value":2,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":20,"name":"KOTA SERANG"},
+        {"value":18,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) KEPALA DESA",
+      "yyyy": "2017",
+      "index": "(P) KEPALA DESA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":4,"name":"PANDEGLANG"},
+        {"value":6,"name":"LEBAK"},
+        {"value":8,"name":"TANGERANG"},
+        {"value":6,"name":"SERANG"},
+        {"value":0,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":3,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) BIRAWATI",
+      "yyyy": "2017",
+      "index": "(L) BIRAWATI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":2,"name":"PANDEGLANG"},
+        {"value":0,"name":"LEBAK"},
+        {"value":4,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":12,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":0,"name":"KOTA SERANG"},
+        {"value":0,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) BIRAWATI",
+      "yyyy": "2017",
+      "index": "(P) BIRAWATI 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":0,"name":"PANDEGLANG"},
+        {"value":4,"name":"LEBAK"},
+        {"value":21,"name":"TANGERANG"},
+        {"value":0,"name":"SERANG"},
+        {"value":23,"name":"KOTA TANGERANG"},
+        {"value":0,"name":"KOTA CILEGON"},
+        {"value":4,"name":"KOTA SERANG"},
+        {"value":42,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) WIRASWASTA",
+      "yyyy": "2017",
+      "index": "(L) WIRASWASTA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":154622,"name":"PANDEGLANG"},
+        {"value":104288,"name":"LEBAK"},
+        {"value":157318,"name":"TANGERANG"},
+        {"value":73634,"name":"SERANG"},
+        {"value":106970,"name":"KOTA TANGERANG"},
+        {"value":27363,"name":"KOTA CILEGON"},
+        {"value":58484,"name":"KOTA SERANG"},
+        {"value":96111,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) WIRASWASTA",
+      "yyyy": "2017",
+      "index": "(P) WIRASWASTA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":23522,"name":"PANDEGLANG"},
+        {"value":7167,"name":"LEBAK"},
+        {"value":12955,"name":"TANGERANG"},
+        {"value":6764,"name":"SERANG"},
+        {"value":15447,"name":"KOTA TANGERANG"},
+        {"value":2415,"name":"KOTA CILEGON"},
+        {"value":5257,"name":"KOTA SERANG"},
+        {"value":15627,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(L) LAINNYA",
+      "yyyy": "2017",
+      "index": "(L) LAINNYA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":563,"name":"PANDEGLANG"},
+        {"value":85,"name":"LEBAK"},
+        {"value":98,"name":"TANGERANG"},
+        {"value":293,"name":"SERANG"},
+        {"value":126,"name":"KOTA TANGERANG"},
+        {"value":269,"name":"KOTA CILEGON"},
+        {"value":9642,"name":"KOTA SERANG"},
+        {"value":714,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Jumlah Penduduk Jenis Pekerjaan",
+      "region": "Kabupaten/Kota",
+      "name": "(P) LAINNYA",
+      "yyyy": "2017",
+      "index": "(P) LAINNYA 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":138,"name":"PANDEGLANG"},
+        {"value":41,"name":"LEBAK"},
+        {"value":70,"name":"TANGERANG"},
+        {"value":184,"name":"SERANG"},
+        {"value":85,"name":"KOTA TANGERANG"},
+        {"value":31,"name":"KOTA CILEGON"},
+        {"value":5418,"name":"KOTA SERANG"},
+        {"value":345,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
