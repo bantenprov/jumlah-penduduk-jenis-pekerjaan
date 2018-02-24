@@ -5,7 +5,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) BELUM/TIDAK BEKERJA",
       "yyyy": "2017",
-      "index": "(L) BELUM/TIDAK BEKERJA 2017"
+      "title": "(L) BELUM/TIDAK BEKERJA 2017"
     },
     "series": [
       {
@@ -28,7 +28,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) BELUM/TIDAK BEKERJA",
       "yyyy": "2017",
-      "index": "(P) BELUM/TIDAK BEKERJA 2017"
+      "title": "(P) BELUM/TIDAK BEKERJA 2017"
     },
     "series": [
       {
@@ -51,7 +51,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) MENGURUS RUMAH TANGGA",
       "yyyy": "2017",
-      "index": "(L) MENGURUS RUMAH TANGGA 2017"
+      "title": "(L) MENGURUS RUMAH TANGGA 2017"
     },
     "series": [
       {
@@ -74,7 +74,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) MENGURUS RUMAH TANGGA",
       "yyyy": "2017",
-      "index": "(P) MENGURUS RUMAH TANGGA 2017"
+      "title": "(P) MENGURUS RUMAH TANGGA 2017"
     },
     "series": [
       {
@@ -97,7 +97,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PELAJAR/MAHASISWA",
       "yyyy": "2017",
-      "index": "(L) PELAJAR/MAHASISWA 2017"
+      "title": "(L) PELAJAR/MAHASISWA 2017"
     },
     "series": [
       {
@@ -120,7 +120,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PELAJAR/MAHASISWA",
       "yyyy": "2017",
-      "index": "(P) PELAJAR/MAHASISWA 2017"
+      "title": "(P) PELAJAR/MAHASISWA 2017"
     },
     "series": [
       {
@@ -143,7 +143,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PENSIUNAN",
       "yyyy": "2017",
-      "index": "(L) PENSIUNAN 2017"
+      "title": "(L) PENSIUNAN 2017"
     },
     "series": [
       {
@@ -166,7 +166,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PENSIUNAN",
       "yyyy": "2017",
-      "index": "(P) PENSIUNAN 2017"
+      "title": "(P) PENSIUNAN 2017"
     },
     "series": [
       {
@@ -189,7 +189,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PNS",
       "yyyy": "2017",
-      "index": "(L) PNS 2017"
+      "title": "(L) PNS 2017"
     },
     "series": [
       {
@@ -212,7 +212,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PNS",
       "yyyy": "2017",
-      "index": "(P) PNS 2017"
+      "title": "(P) PNS 2017"
     },
     "series": [
       {
@@ -235,7 +235,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) TNI",
       "yyyy": "2017",
-      "index": "(L) TNI 2017"
+      "title": "(L) TNI 2017"
     },
     "series": [
       {
@@ -258,7 +258,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) TNI",
       "yyyy": "2017",
-      "index": "(P) TNI 2017"
+      "title": "(P) TNI 2017"
     },
     "series": [
       {
@@ -281,7 +281,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) KEPOLISIAN",
       "yyyy": "2017",
-      "index": "(L) KEPOLISIAN 2017"
+      "title": "(L) KEPOLISIAN 2017"
     },
     "series": [
       {
@@ -304,7 +304,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) KEPOLISIAN",
       "yyyy": "2017",
-      "index": "(P) KEPOLISIAN 2017"
+      "title": "(P) KEPOLISIAN 2017"
     },
     "series": [
       {
@@ -327,7 +327,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PERDAGANGAN",
       "yyyy": "2017",
-      "index": "(L) PERDAGANGAN 2017"
+      "title": "(L) PERDAGANGAN 2017"
     },
     "series": [
       {
@@ -350,7 +350,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PERDAGANGAN",
       "yyyy": "2017",
-      "index": "(P) PERDAGANGAN 2017"
+      "title": "(P) PERDAGANGAN 2017"
     },
     "series": [
       {
@@ -373,7 +373,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PETANI/PEKEBUN",
       "yyyy": "2017",
-      "index": "(L) PETANI/PEKEBUN 2017"
+      "title": "(L) PETANI/PEKEBUN 2017"
     },
     "series": [
       {
@@ -396,7 +396,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PETANI/PEKEBUN",
       "yyyy": "2017",
-      "index": "(P) PETANI/PEKEBUN 2017"
+      "title": "(P) PETANI/PEKEBUN 2017"
     },
     "series": [
       {
@@ -419,7 +419,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PETERNAK",
       "yyyy": "2017",
-      "index": "(L) PETERNAK 2017"
+      "title": "(L) PETERNAK 2017"
     },
     "series": [
       {
@@ -442,7 +442,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PETERNAK",
       "yyyy": "2017",
-      "index": "(P) PETERNAK 2017"
+      "title": "(P) PETERNAK 2017"
     },
     "series": [
       {
@@ -465,7 +465,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) NELAYAN/PERIKANAN",
       "yyyy": "2017",
-      "index": "(L) NELAYAN/PERIKANAN 2017"
+      "title": "(L) NELAYAN/PERIKANAN 2017"
     },
     "series": [
       {
@@ -488,7 +488,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) NELAYAN/PERIKANAN",
       "yyyy": "2017",
-      "index": "(P) NELAYAN/PERIKANAN 2017"
+      "title": "(P) NELAYAN/PERIKANAN 2017"
     },
     "series": [
       {
@@ -511,7 +511,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) INDUSTRI",
       "yyyy": "2017",
-      "index": "(L) INDUSTRI 2017"
+      "title": "(L) INDUSTRI 2017"
     },
     "series": [
       {
@@ -534,7 +534,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) INDUSTRI",
       "yyyy": "2017",
-      "index": "(P) INDUSTRI 2017"
+      "title": "(P) INDUSTRI 2017"
     },
     "series": [
       {
@@ -557,7 +557,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) KONSTRUKSI",
       "yyyy": "2017",
-      "index": "(L) KONSTRUKSI 2017"
+      "title": "(L) KONSTRUKSI 2017"
     },
     "series": [
       {
@@ -580,7 +580,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) KONSTRUKSI",
       "yyyy": "2017",
-      "index": "(P) KONSTRUKSI 2017"
+      "title": "(P) KONSTRUKSI 2017"
     },
     "series": [
       {
@@ -603,7 +603,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) TRANSPORTASI",
       "yyyy": "2017",
-      "index": "(L) TRANSPORTASI 2017"
+      "title": "(L) TRANSPORTASI 2017"
     },
     "series": [
       {
@@ -626,7 +626,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) TRANSPORTASI",
       "yyyy": "2017",
-      "index": "(P) TRANSPORTASI 2017"
+      "title": "(P) TRANSPORTASI 2017"
     },
     "series": [
       {
@@ -649,7 +649,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) KARYAWAN SWASTA",
       "yyyy": "2017",
-      "index": "(L) KARYAWAN SWASTA 2017"
+      "title": "(L) KARYAWAN SWASTA 2017"
     },
     "series": [
       {
@@ -672,7 +672,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) KARYAWAN SWASTA",
       "yyyy": "2017",
-      "index": "(P) KARYAWAN SWASTA 2017"
+      "title": "(P) KARYAWAN SWASTA 2017"
     },
     "series": [
       {
@@ -695,7 +695,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) KARYAWAN BUMN",
       "yyyy": "2017",
-      "index": "(L) KARYAWAN BUMN 2017"
+      "title": "(L) KARYAWAN BUMN 2017"
     },
     "series": [
       {
@@ -718,7 +718,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) KARYAWAN BUMN",
       "yyyy": "2017",
-      "index": "(P) KARYAWAN BUMN 2017"
+      "title": "(P) KARYAWAN BUMN 2017"
     },
     "series": [
       {
@@ -741,7 +741,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) KARYAWAN BUMD",
       "yyyy": "2017",
-      "index": "(L) KARYAWAN BUMD 2017"
+      "title": "(L) KARYAWAN BUMD 2017"
     },
     "series": [
       {
@@ -764,7 +764,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) KARYAWAN BUMD",
       "yyyy": "2017",
-      "index": "(P) KARYAWAN BUMD 2017"
+      "title": "(P) KARYAWAN BUMD 2017"
     },
     "series": [
       {
@@ -787,7 +787,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) KARYAWAN HONORER",
       "yyyy": "2017",
-      "index": "(L) KARYAWAN HONORER 2017"
+      "title": "(L) KARYAWAN HONORER 2017"
     },
     "series": [
       {
@@ -810,7 +810,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) KARYAWAN HONORER",
       "yyyy": "2017",
-      "index": "(P) KARYAWAN HONORER 2017"
+      "title": "(P) KARYAWAN HONORER 2017"
     },
     "series": [
       {
@@ -833,7 +833,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) BURUH HARIAN LEPAS",
       "yyyy": "2017",
-      "index": "(L) BURUH HARIAN LEPAS 2017"
+      "title": "(L) BURUH HARIAN LEPAS 2017"
     },
     "series": [
       {
@@ -856,7 +856,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) BURUH HARIAN LEPAS",
       "yyyy": "2017",
-      "index": "(P) BURUH HARIAN LEPAS 2017"
+      "title": "(P) BURUH HARIAN LEPAS 2017"
     },
     "series": [
       {
@@ -879,7 +879,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) BURUH TANI PERKEBUNAN",
       "yyyy": "2017",
-      "index": "(L) BURUH TANI PERKEBUNAN 2017"
+      "title": "(L) BURUH TANI PERKEBUNAN 2017"
     },
     "series": [
       {
@@ -902,7 +902,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) BURUH TANI PERKEBUNAN",
       "yyyy": "2017",
-      "index": "(P) BURUH TANI PERKEBUNAN 2017"
+      "title": "(P) BURUH TANI PERKEBUNAN 2017"
     },
     "series": [
       {
@@ -925,7 +925,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) BURUH NELAYAN PERIKANAN",
       "yyyy": "2017",
-      "index": "(L) BURUH NELAYAN PERIKANAN 2017"
+      "title": "(L) BURUH NELAYAN PERIKANAN 2017"
     },
     "series": [
       {
@@ -948,7 +948,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) BURUH NELAYAN PERIKANAN",
       "yyyy": "2017",
-      "index": "(P) BURUH NELAYAN PERIKANAN 2017"
+      "title": "(P) BURUH NELAYAN PERIKANAN 2017"
     },
     "series": [
       {
@@ -971,7 +971,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) BURUH PETERNAKAN",
       "yyyy": "2017",
-      "index": "(L) BURUH PETERNAKAN 2017"
+      "title": "(L) BURUH PETERNAKAN 2017"
     },
     "series": [
       {
@@ -994,7 +994,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) BURUH PETERNAKAN",
       "yyyy": "2017",
-      "index": "(P) BURUH PETERNAKAN 2017"
+      "title": "(P) BURUH PETERNAKAN 2017"
     },
     "series": [
       {
@@ -1017,7 +1017,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PEMBANTU RUMAH TANGGA",
       "yyyy": "2017",
-      "index": "(L) PEMBANTU RUMAH TANGGA 2017"
+      "title": "(L) PEMBANTU RUMAH TANGGA 2017"
     },
     "series": [
       {
@@ -1040,7 +1040,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PEMBANTU RUMAH TANGGA",
       "yyyy": "2017",
-      "index": "(P) PEMBANTU RUMAH TANGGA 2017"
+      "title": "(P) PEMBANTU RUMAH TANGGA 2017"
     },
     "series": [
       {
@@ -1063,7 +1063,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) TUKANG CUKUR",
       "yyyy": "2017",
-      "index": "(L) TUKANG CUKUR 2017"
+      "title": "(L) TUKANG CUKUR 2017"
     },
     "series": [
       {
@@ -1086,7 +1086,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) TUKANG CUKUR",
       "yyyy": "2017",
-      "index": "(P) TUKANG CUKUR 2017"
+      "title": "(P) TUKANG CUKUR 2017"
     },
     "series": [
       {
@@ -1109,7 +1109,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) TUKANG LISTRIK",
       "yyyy": "2017",
-      "index": "(L) TUKANG LISTRIK 2017"
+      "title": "(L) TUKANG LISTRIK 2017"
     },
     "series": [
       {
@@ -1132,7 +1132,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) TUKANG LISTRIK",
       "yyyy": "2017",
-      "index": "(P) TUKANG LISTRIK 2017"
+      "title": "(P) TUKANG LISTRIK 2017"
     },
     "series": [
       {
@@ -1155,7 +1155,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) TUKANG BATU",
       "yyyy": "2017",
-      "index": "(L) TUKANG BATU 2017"
+      "title": "(L) TUKANG BATU 2017"
     },
     "series": [
       {
@@ -1178,7 +1178,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) TUKANG BATU",
       "yyyy": "2017",
-      "index": "(P) TUKANG BATU 2017"
+      "title": "(P) TUKANG BATU 2017"
     },
     "series": [
       {
@@ -1201,7 +1201,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) TUKANG KAYU",
       "yyyy": "2017",
-      "index": "(L) TUKANG KAYU 2017"
+      "title": "(L) TUKANG KAYU 2017"
     },
     "series": [
       {
@@ -1224,7 +1224,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) TUKANG KAYU",
       "yyyy": "2017",
-      "index": "(P) TUKANG KAYU 2017"
+      "title": "(P) TUKANG KAYU 2017"
     },
     "series": [
       {
@@ -1247,7 +1247,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) TUKANG SOL SEPATU",
       "yyyy": "2017",
-      "index": "(L) TUKANG SOL SEPATU 2017"
+      "title": "(L) TUKANG SOL SEPATU 2017"
     },
     "series": [
       {
@@ -1270,7 +1270,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) TUKANG SOL SEPATU",
       "yyyy": "2017",
-      "index": "(P) TUKANG SOL SEPATU 2017"
+      "title": "(P) TUKANG SOL SEPATU 2017"
     },
     "series": [
       {
@@ -1293,7 +1293,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) TUKANG LAS/PANDAI BESI",
       "yyyy": "2017",
-      "index": "(L) TUKANG LAS/PANDAI BESI 2017"
+      "title": "(L) TUKANG LAS/PANDAI BESI 2017"
     },
     "series": [
       {
@@ -1316,7 +1316,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) TUKANG LAS/PANDAI BESI",
       "yyyy": "2017",
-      "index": "(P) TUKANG LAS/PANDAI BESI 2017"
+      "title": "(P) TUKANG LAS/PANDAI BESI 2017"
     },
     "series": [
       {
@@ -1339,7 +1339,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) TUKANG JAHIT",
       "yyyy": "2017",
-      "index": "(L) TUKANG JAHIT 2017"
+      "title": "(L) TUKANG JAHIT 2017"
     },
     "series": [
       {
@@ -1362,7 +1362,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) TUKANG JAHIT",
       "yyyy": "2017",
-      "index": "(P) TUKANG JAHIT 2017"
+      "title": "(P) TUKANG JAHIT 2017"
     },
     "series": [
       {
@@ -1385,7 +1385,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) TUKANG GIGI",
       "yyyy": "2017",
-      "index": "(L) TUKANG GIGI 2017"
+      "title": "(L) TUKANG GIGI 2017"
     },
     "series": [
       {
@@ -1408,7 +1408,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) TUKANG GIGI",
       "yyyy": "2017",
-      "index": "(P) TUKANG GIGI 2017"
+      "title": "(P) TUKANG GIGI 2017"
     },
     "series": [
       {
@@ -1431,7 +1431,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PENATA RIAS",
       "yyyy": "2017",
-      "index": "(L) PENATA RIAS 2017"
+      "title": "(L) PENATA RIAS 2017"
     },
     "series": [
       {
@@ -1454,7 +1454,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PENATA RIAS",
       "yyyy": "2017",
-      "index": "(P) PENATA RIAS 2017"
+      "title": "(P) PENATA RIAS 2017"
     },
     "series": [
       {
@@ -1477,7 +1477,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PENATA BUSANA",
       "yyyy": "2017",
-      "index": "(L) PENATA BUSANA 2017"
+      "title": "(L) PENATA BUSANA 2017"
     },
     "series": [
       {
@@ -1500,7 +1500,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PENATA BUSANA",
       "yyyy": "2017",
-      "index": "(P) PENATA BUSANA 2017"
+      "title": "(P) PENATA BUSANA 2017"
     },
     "series": [
       {
@@ -1523,7 +1523,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PENATA RAMBUT",
       "yyyy": "2017",
-      "index": "(L) PENATA RAMBUT 2017"
+      "title": "(L) PENATA RAMBUT 2017"
     },
     "series": [
       {
@@ -1546,7 +1546,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PENATA RAMBUT",
       "yyyy": "2017",
-      "index": "(P) PENATA RAMBUT 2017"
+      "title": "(P) PENATA RAMBUT 2017"
     },
     "series": [
       {
@@ -1569,7 +1569,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) MEKANIK",
       "yyyy": "2017",
-      "index": "(L) MEKANIK 2017"
+      "title": "(L) MEKANIK 2017"
     },
     "series": [
       {
@@ -1592,7 +1592,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) MEKANIK",
       "yyyy": "2017",
-      "index": "(P) MEKANIK 2017"
+      "title": "(P) MEKANIK 2017"
     },
     "series": [
       {
@@ -1615,7 +1615,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) SENIMAN",
       "yyyy": "2017",
-      "index": "(L) SENIMAN 2017"
+      "title": "(L) SENIMAN 2017"
     },
     "series": [
       {
@@ -1638,7 +1638,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) SENIMAN",
       "yyyy": "2017",
-      "index": "(P) SENIMAN 2017"
+      "title": "(P) SENIMAN 2017"
     },
     "series": [
       {
@@ -1661,7 +1661,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) TABIB",
       "yyyy": "2017",
-      "index": "(L) TABIB 2017"
+      "title": "(L) TABIB 2017"
     },
     "series": [
       {
@@ -1684,7 +1684,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) TABIB",
       "yyyy": "2017",
-      "index": "(P) TABIB 2017"
+      "title": "(P) TABIB 2017"
     },
     "series": [
       {
@@ -1707,7 +1707,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PARAJI",
       "yyyy": "2017",
-      "index": "(L) PARAJI 2017"
+      "title": "(L) PARAJI 2017"
     },
     "series": [
       {
@@ -1730,7 +1730,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PARAJI",
       "yyyy": "2017",
-      "index": "(P) PARAJI 2017"
+      "title": "(P) PARAJI 2017"
     },
     "series": [
       {
@@ -1753,7 +1753,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PERANCANG BUSANA",
       "yyyy": "2017",
-      "index": "(L) PERANCANG BUSANA 2017"
+      "title": "(L) PERANCANG BUSANA 2017"
     },
     "series": [
       {
@@ -1776,7 +1776,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PERANCANG BUSANA",
       "yyyy": "2017",
-      "index": "(P) PERANCANG BUSANA 2017"
+      "title": "(P) PERANCANG BUSANA 2017"
     },
     "series": [
       {
@@ -1799,7 +1799,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PENTERJEMAH",
       "yyyy": "2017",
-      "index": "(L) PENTERJEMAH 2017"
+      "title": "(L) PENTERJEMAH 2017"
     },
     "series": [
       {
@@ -1822,7 +1822,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PENTERJEMAH",
       "yyyy": "2017",
-      "index": "(P) PENTERJEMAH 2017"
+      "title": "(P) PENTERJEMAH 2017"
     },
     "series": [
       {
@@ -1845,7 +1845,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) IMAM MESJID",
       "yyyy": "2017",
-      "index": "(L) IMAM MESJID 2017"
+      "title": "(L) IMAM MESJID 2017"
     },
     "series": [
       {
@@ -1868,7 +1868,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) IMAM MESJID",
       "yyyy": "2017",
-      "index": "(P) IMAM MESJID 2017"
+      "title": "(P) IMAM MESJID 2017"
     },
     "series": [
       {
@@ -1891,7 +1891,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PENDETA",
       "yyyy": "2017",
-      "index": "(L) PENDETA 2017"
+      "title": "(L) PENDETA 2017"
     },
     "series": [
       {
@@ -1914,7 +1914,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PENDETA",
       "yyyy": "2017",
-      "index": "(P) PENDETA 2017"
+      "title": "(P) PENDETA 2017"
     },
     "series": [
       {
@@ -1937,7 +1937,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PASTOR",
       "yyyy": "2017",
-      "index": "(L) PASTOR 2017"
+      "title": "(L) PASTOR 2017"
     },
     "series": [
       {
@@ -1960,7 +1960,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PASTOR",
       "yyyy": "2017",
-      "index": "(P) PASTOR 2017"
+      "title": "(P) PASTOR 2017"
     },
     "series": [
       {
@@ -1983,7 +1983,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) WARTAWAN",
       "yyyy": "2017",
-      "index": "(L) WARTAWAN 2017"
+      "title": "(L) WARTAWAN 2017"
     },
     "series": [
       {
@@ -2006,7 +2006,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) WARTAWAN",
       "yyyy": "2017",
-      "index": "(P) WARTAWAN 2017"
+      "title": "(P) WARTAWAN 2017"
     },
     "series": [
       {
@@ -2029,7 +2029,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) USTADZ/MUBALIGH",
       "yyyy": "2017",
-      "index": "(L) USTADZ/MUBALIGH 2017"
+      "title": "(L) USTADZ/MUBALIGH 2017"
     },
     "series": [
       {
@@ -2052,7 +2052,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) USTADZ/MUBALIGH",
       "yyyy": "2017",
-      "index": "(P) USTADZ/MUBALIGH 2017"
+      "title": "(P) USTADZ/MUBALIGH 2017"
     },
     "series": [
       {
@@ -2075,7 +2075,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) JURU MASAK",
       "yyyy": "2017",
-      "index": "(L) JURU MASAK 2017"
+      "title": "(L) JURU MASAK 2017"
     },
     "series": [
       {
@@ -2098,7 +2098,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) JURU MASAK",
       "yyyy": "2017",
-      "index": "(P) JURU MASAK 2017"
+      "title": "(P) JURU MASAK 2017"
     },
     "series": [
       {
@@ -2121,7 +2121,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PROMOTOR ACARA",
       "yyyy": "2017",
-      "index": "(L) PROMOTOR ACARA 2017"
+      "title": "(L) PROMOTOR ACARA 2017"
     },
     "series": [
       {
@@ -2144,7 +2144,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PROMOTOR ACARA",
       "yyyy": "2017",
-      "index": "(P) PROMOTOR ACARA 2017"
+      "title": "(P) PROMOTOR ACARA 2017"
     },
     "series": [
       {
@@ -2167,7 +2167,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) ANGGOTA DPR RI",
       "yyyy": "2017",
-      "index": "(L) ANGGOTA DPR RI 2017"
+      "title": "(L) ANGGOTA DPR RI 2017"
     },
     "series": [
       {
@@ -2190,7 +2190,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) ANGGOTA DPR RI",
       "yyyy": "2017",
-      "index": "(P) ANGGOTA DRR RI 2017"
+      "title": "(P) ANGGOTA DRR RI 2017"
     },
     "series": [
       {
@@ -2213,7 +2213,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) ANGGOTA DPD",
       "yyyy": "2017",
-      "index": "(L) ANGGOTA DPD 2017"
+      "title": "(L) ANGGOTA DPD 2017"
     },
     "series": [
       {
@@ -2236,7 +2236,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) ANGGOTA DPD",
       "yyyy": "2017",
-      "index": "(P) ANGGOTA DPD 2017"
+      "title": "(P) ANGGOTA DPD 2017"
     },
     "series": [
       {
@@ -2259,7 +2259,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) ANGGOTA BPK",
       "yyyy": "2017",
-      "index": "(L) ANGGOTA BPK 2017"
+      "title": "(L) ANGGOTA BPK 2017"
     },
     "series": [
       {
@@ -2282,7 +2282,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) ANGGOTA BPK",
       "yyyy": "2017",
-      "index": "(P) ANGGOTA BPK 2017"
+      "title": "(P) ANGGOTA BPK 2017"
     },
     "series": [
       {
@@ -2305,7 +2305,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PRESIDEN",
       "yyyy": "2017",
-      "index": "(L) PRESIDEN 2017"
+      "title": "(L) PRESIDEN 2017"
     },
     "series": [
       {
@@ -2328,7 +2328,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PRESIDEN",
       "yyyy": "2017",
-      "index": "(P) PRESIDEN 2017"
+      "title": "(P) PRESIDEN 2017"
     },
     "series": [
       {
@@ -2351,7 +2351,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) WAKIL PRESIDEN",
       "yyyy": "2017",
-      "index": "(L) WAKIL PRESIDEN 2017"
+      "title": "(L) WAKIL PRESIDEN 2017"
     },
     "series": [
       {
@@ -2374,7 +2374,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) WAKIL PRESIDEN",
       "yyyy": "2017",
-      "index": "(P) WAKIL PRESIDEN 2017"
+      "title": "(P) WAKIL PRESIDEN 2017"
     },
     "series": [
       {
@@ -2397,7 +2397,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) ANGGOTA MAHKAMAH KONSTITUSI",
       "yyyy": "2017",
-      "index": "(L) ANGGOTA MAHKAMAH KONSTITUSI 2017"
+      "title": "(L) ANGGOTA MAHKAMAH KONSTITUSI 2017"
     },
     "series": [
       {
@@ -2420,7 +2420,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) ANGGOTA MAHKAMAH KONSTITUSI",
       "yyyy": "2017",
-      "index": "(P) ANGGOTA MAHKAMAH KONSTITUSI 2017"
+      "title": "(P) ANGGOTA MAHKAMAH KONSTITUSI 2017"
     },
     "series": [
       {
@@ -2443,7 +2443,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) ANGGOTA KABINET/KEMENTERIAN",
       "yyyy": "2017",
-      "index": "(L) ANGGOTA KABINET/KEMENTERIAN 2017"
+      "title": "(L) ANGGOTA KABINET/KEMENTERIAN 2017"
     },
     "series": [
       {
@@ -2466,7 +2466,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) ANGGOTA KABINET/KEMENTERIAN",
       "yyyy": "2017",
-      "index": "(P) ANGGOTA KABINET/KEMENTERIAN 2017"
+      "title": "(P) ANGGOTA KABINET/KEMENTERIAN 2017"
     },
     "series": [
       {
@@ -2489,7 +2489,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) DUTA BESAR",
       "yyyy": "2017",
-      "index": "(L) DUTA BESAR 2017"
+      "title": "(L) DUTA BESAR 2017"
     },
     "series": [
       {
@@ -2512,7 +2512,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) DUTA BESAR",
       "yyyy": "2017",
-      "index": "(P) DUTA BESAR 2017"
+      "title": "(P) DUTA BESAR 2017"
     },
     "series": [
       {
@@ -2535,7 +2535,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GUBERNUR",
       "yyyy": "2017",
-      "index": "(L) GUBERNUR 2017"
+      "title": "(L) GUBERNUR 2017"
     },
     "series": [
       {
@@ -2558,7 +2558,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GUBERNUR",
       "yyyy": "2017",
-      "index": "(P) GUBERNUR 2017"
+      "title": "(P) GUBERNUR 2017"
     },
     "series": [
       {
@@ -2581,7 +2581,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) WAKIL GUBERNUR",
       "yyyy": "2017",
-      "index": "(L) WAKIL GUBERNUR 2017"
+      "title": "(L) WAKIL GUBERNUR 2017"
     },
     "series": [
       {
@@ -2604,7 +2604,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) WAKIL GUBERNUR",
       "yyyy": "2017",
-      "index": "(P) WAKIL GUBERNUR 2017"
+      "title": "(P) WAKIL GUBERNUR 2017"
     },
     "series": [
       {
@@ -2627,7 +2627,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) BUPATI",
       "yyyy": "2017",
-      "index": "(L) BUPATI 2017"
+      "title": "(L) BUPATI 2017"
     },
     "series": [
       {
@@ -2650,7 +2650,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) BUPATI",
       "yyyy": "2017",
-      "index": "(P) BUPATI 2017"
+      "title": "(P) BUPATI 2017"
     },
     "series": [
       {
@@ -2673,7 +2673,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) WAKIL BUPATI",
       "yyyy": "2017",
-      "index": "(L) WAKIL BUPATI 2017"
+      "title": "(L) WAKIL BUPATI 2017"
     },
     "series": [
       {
@@ -2696,7 +2696,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) WAKIL BUPATI",
       "yyyy": "2017",
-      "index": "(P) WAKIL BUPATI 2017"
+      "title": "(P) WAKIL BUPATI 2017"
     },
     "series": [
       {
@@ -2719,7 +2719,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) WALIKOTA",
       "yyyy": "2017",
-      "index": "(L) WALIKOTA 2017"
+      "title": "(L) WALIKOTA 2017"
     },
     "series": [
       {
@@ -2742,7 +2742,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) WALIKOTA",
       "yyyy": "2017",
-      "index": "(P) WALIKOTA 2017"
+      "title": "(P) WALIKOTA 2017"
     },
     "series": [
       {
@@ -2765,7 +2765,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) WAKIL WALIKOTA",
       "yyyy": "2017",
-      "index": "(L) WAKIL WALIKOTA 2017"
+      "title": "(L) WAKIL WALIKOTA 2017"
     },
     "series": [
       {
@@ -2788,7 +2788,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) WAKIL WALIKOTA",
       "yyyy": "2017",
-      "index": "(P) WAKIL WALIKOTA 2017"
+      "title": "(P) WAKIL WALIKOTA 2017"
     },
     "series": [
       {
@@ -2811,7 +2811,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) ANGGOTA DPRD PROVINSI",
       "yyyy": "2017",
-      "index": "(L) ANGGOTA DPRD PROVINSI 2017"
+      "title": "(L) ANGGOTA DPRD PROVINSI 2017"
     },
     "series": [
       {
@@ -2834,7 +2834,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) ANGGOTA DPRD PROVINSI",
       "yyyy": "2017",
-      "index": "(P) ANGGOTA DPRD PROVINSI 2017"
+      "title": "(P) ANGGOTA DPRD PROVINSI 2017"
     },
     "series": [
       {
@@ -2857,7 +2857,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) ANGGOTA DPRD KABUPATEN/KOTA",
       "yyyy": "2017",
-      "index": "(L) ANGGOTA DPRD KABUPATEN/KOTA 2017"
+      "title": "(L) ANGGOTA DPRD KABUPATEN/KOTA 2017"
     },
     "series": [
       {
@@ -2880,7 +2880,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) ANGGOTA DPRD KABUPATEN/KOTA",
       "yyyy": "2017",
-      "index": "(P) ANGGOTA DPRD KABUPATEN/KOTA 2017"
+      "title": "(P) ANGGOTA DPRD KABUPATEN/KOTA 2017"
     },
     "series": [
       {
@@ -2903,7 +2903,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) DOSEN",
       "yyyy": "2017",
-      "index": "(L) DOSEN 2017"
+      "title": "(L) DOSEN 2017"
     },
     "series": [
       {
@@ -2926,7 +2926,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) DOSEN",
       "yyyy": "2017",
-      "index": "(P) DOSEN 2017"
+      "title": "(P) DOSEN 2017"
     },
     "series": [
       {
@@ -2949,7 +2949,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GURU",
       "yyyy": "2017",
-      "index": "(L) GURU 2017"
+      "title": "(L) GURU 2017"
     },
     "series": [
       {
@@ -2972,7 +2972,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GURU",
       "yyyy": "2017",
-      "index": "(P) GURU 2017"
+      "title": "(P) GURU 2017"
     },
     "series": [
       {
@@ -2995,7 +2995,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PILOT",
       "yyyy": "2017",
-      "index": "(L) PILOT 2017"
+      "title": "(L) PILOT 2017"
     },
     "series": [
       {
@@ -3018,7 +3018,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PILOT",
       "yyyy": "2017",
-      "index": "(P) PILOT 2017"
+      "title": "(P) PILOT 2017"
     },
     "series": [
       {
@@ -3041,7 +3041,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PENGACARA",
       "yyyy": "2017",
-      "index": "(L) PENGACARA 2017"
+      "title": "(L) PENGACARA 2017"
     },
     "series": [
       {
@@ -3064,7 +3064,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PENGACARA",
       "yyyy": "2017",
-      "index": "(P) PENGACARA 2017"
+      "title": "(P) PENGACARA 2017"
     },
     "series": [
       {
@@ -3087,7 +3087,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) NOTARIS",
       "yyyy": "2017",
-      "index": "(L) NOTARIS 2017"
+      "title": "(L) NOTARIS 2017"
     },
     "series": [
       {
@@ -3110,7 +3110,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) NOTARIS",
       "yyyy": "2017",
-      "index": "(P) NOTARIS 2017"
+      "title": "(P) NOTARIS 2017"
     },
     "series": [
       {
@@ -3133,7 +3133,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) ARSITEK",
       "yyyy": "2017",
-      "index": "(L) ARSITEK 2017"
+      "title": "(L) ARSITEK 2017"
     },
     "series": [
       {
@@ -3156,7 +3156,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) ARSITEK",
       "yyyy": "2017",
-      "index": "(P) ARSITEK 2017"
+      "title": "(P) ARSITEK 2017"
     },
     "series": [
       {
@@ -3179,7 +3179,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) AKUNTAN",
       "yyyy": "2017",
-      "index": "(L) AKUNTAN 2017"
+      "title": "(L) AKUNTAN 2017"
     },
     "series": [
       {
@@ -3202,7 +3202,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) AKUNTAN",
       "yyyy": "2017",
-      "index": "(P) AKUNTAN 2017"
+      "title": "(P) AKUNTAN 2017"
     },
     "series": [
       {
@@ -3225,7 +3225,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) KONSULTAN",
       "yyyy": "2017",
-      "index": "(L) KONSULTAN 2017"
+      "title": "(L) KONSULTAN 2017"
     },
     "series": [
       {
@@ -3248,7 +3248,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) KONSULTAN",
       "yyyy": "2017",
-      "index": "(P) KONSULTAN 2017"
+      "title": "(P) KONSULTAN 2017"
     },
     "series": [
       {
@@ -3271,7 +3271,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) DOKTER",
       "yyyy": "2017",
-      "index": "(L) DOKTER 2017"
+      "title": "(L) DOKTER 2017"
     },
     "series": [
       {
@@ -3294,7 +3294,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) DOKTER",
       "yyyy": "2017",
-      "index": "(P) DOKTER 2017"
+      "title": "(P) DOKTER 2017"
     },
     "series": [
       {
@@ -3317,7 +3317,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) BIDAN",
       "yyyy": "2017",
-      "index": "(L) BIDAN 2017"
+      "title": "(L) BIDAN 2017"
     },
     "series": [
       {
@@ -3340,7 +3340,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) BIDAN",
       "yyyy": "2017",
-      "index": "(P) BIDAN 2017"
+      "title": "(P) BIDAN 2017"
     },
     "series": [
       {
@@ -3363,7 +3363,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PERAWAT",
       "yyyy": "2017",
-      "index": "(L) PERAWAT 2017"
+      "title": "(L) PERAWAT 2017"
     },
     "series": [
       {
@@ -3386,7 +3386,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PERAWAT",
       "yyyy": "2017",
-      "index": "(P) PERAWAT 2017"
+      "title": "(P) PERAWAT 2017"
     },
     "series": [
       {
@@ -3409,7 +3409,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) APOTEKER",
       "yyyy": "2017",
-      "index": "(L) APOTEKER 2017"
+      "title": "(L) APOTEKER 2017"
     },
     "series": [
       {
@@ -3432,7 +3432,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) APOTEKER",
       "yyyy": "2017",
-      "index": "(P) APOTEKER 2017"
+      "title": "(P) APOTEKER 2017"
     },
     "series": [
       {
@@ -3455,7 +3455,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PSIKIATER/PSIKOLOG",
       "yyyy": "2017",
-      "index": "(L) PSIKIATER/PSIKOLOG 2017"
+      "title": "(L) PSIKIATER/PSIKOLOG 2017"
     },
     "series": [
       {
@@ -3478,7 +3478,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PSIKIATER/PSIKOLOG",
       "yyyy": "2017",
-      "index": "(P) PSIKIATER/PSIKOLOG 2017"
+      "title": "(P) PSIKIATER/PSIKOLOG 2017"
     },
     "series": [
       {
@@ -3501,7 +3501,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PENYIAR TELEVISI",
       "yyyy": "2017",
-      "index": "(L) PENYIAR TELEVISI 2017"
+      "title": "(L) PENYIAR TELEVISI 2017"
     },
     "series": [
       {
@@ -3524,7 +3524,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PENYIAR TELEVISI",
       "yyyy": "2017",
-      "index": "(P) PENYIAR TELEVISI 2017"
+      "title": "(P) PENYIAR TELEVISI 2017"
     },
     "series": [
       {
@@ -3547,7 +3547,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PENYIAR RADIO",
       "yyyy": "2017",
-      "index": "(L) PENYIAR RADIO 2017"
+      "title": "(L) PENYIAR RADIO 2017"
     },
     "series": [
       {
@@ -3570,7 +3570,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PENYIAR RADIO",
       "yyyy": "2017",
-      "index": "(P) PENYIAR RADIO 2017"
+      "title": "(P) PENYIAR RADIO 2017"
     },
     "series": [
       {
@@ -3593,7 +3593,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PELAUT",
       "yyyy": "2017",
-      "index": "(L) PELAUT 2017"
+      "title": "(L) PELAUT 2017"
     },
     "series": [
       {
@@ -3616,7 +3616,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PELAUT",
       "yyyy": "2017",
-      "index": "(P) PELAUT 2017"
+      "title": "(P) PELAUT 2017"
     },
     "series": [
       {
@@ -3639,7 +3639,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PENELITI",
       "yyyy": "2017",
-      "index": "(L) PENELITI 2017"
+      "title": "(L) PENELITI 2017"
     },
     "series": [
       {
@@ -3662,7 +3662,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PENELITI",
       "yyyy": "2017",
-      "index": "(P) PENELITI 2017"
+      "title": "(P) PENELITI 2017"
     },
     "series": [
       {
@@ -3685,7 +3685,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) SOPIR",
       "yyyy": "2017",
-      "index": "(L) SOPIR 2017"
+      "title": "(L) SOPIR 2017"
     },
     "series": [
       {
@@ -3708,7 +3708,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) SOPIR",
       "yyyy": "2017",
-      "index": "(P) SOPIR 2017"
+      "title": "(P) SOPIR 2017"
     },
     "series": [
       {
@@ -3731,7 +3731,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PIALANG",
       "yyyy": "2017",
-      "index": "(L) PIALANG 2017"
+      "title": "(L) PIALANG 2017"
     },
     "series": [
       {
@@ -3754,7 +3754,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PIALANG",
       "yyyy": "2017",
-      "index": "(P) PIALANG 2017"
+      "title": "(P) PIALANG 2017"
     },
     "series": [
       {
@@ -3777,7 +3777,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PARANORMAL",
       "yyyy": "2017",
-      "index": "(L) PARANORMAL 2017"
+      "title": "(L) PARANORMAL 2017"
     },
     "series": [
       {
@@ -3800,7 +3800,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PARANORMAL",
       "yyyy": "2017",
-      "index": "(P) PARANORMAL 2017"
+      "title": "(P) PARANORMAL 2017"
     },
     "series": [
       {
@@ -3823,7 +3823,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PEDAGANG",
       "yyyy": "2017",
-      "index": "(L) PEDAGANG 2017"
+      "title": "(L) PEDAGANG 2017"
     },
     "series": [
       {
@@ -3846,7 +3846,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PEDAGANG",
       "yyyy": "2017",
-      "index": "(P) PEDAGANG 2017"
+      "title": "(P) PEDAGANG 2017"
     },
     "series": [
       {
@@ -3869,7 +3869,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) PERANGKAT DESA",
       "yyyy": "2017",
-      "index": "(L) PERANGKAT DESA 2017"
+      "title": "(L) PERANGKAT DESA 2017"
     },
     "series": [
       {
@@ -3892,7 +3892,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) PERANGKAT DESA",
       "yyyy": "2017",
-      "index": "(P) PERANGKAT DESA 2017"
+      "title": "(P) PERANGKAT DESA 2017"
     },
     "series": [
       {
@@ -3915,7 +3915,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) KEPALA DESA",
       "yyyy": "2017",
-      "index": "(L) KEPALA DESA 2017"
+      "title": "(L) KEPALA DESA 2017"
     },
     "series": [
       {
@@ -3938,7 +3938,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) KEPALA DESA",
       "yyyy": "2017",
-      "index": "(P) KEPALA DESA 2017"
+      "title": "(P) KEPALA DESA 2017"
     },
     "series": [
       {
@@ -3961,7 +3961,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) BIRAWATI",
       "yyyy": "2017",
-      "index": "(L) BIRAWATI 2017"
+      "title": "(L) BIRAWATI 2017"
     },
     "series": [
       {
@@ -3984,7 +3984,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) BIRAWATI",
       "yyyy": "2017",
-      "index": "(P) BIRAWATI 2017"
+      "title": "(P) BIRAWATI 2017"
     },
     "series": [
       {
@@ -4007,7 +4007,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) WIRASWASTA",
       "yyyy": "2017",
-      "index": "(L) WIRASWASTA 2017"
+      "title": "(L) WIRASWASTA 2017"
     },
     "series": [
       {
@@ -4030,7 +4030,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) WIRASWASTA",
       "yyyy": "2017",
-      "index": "(P) WIRASWASTA 2017"
+      "title": "(P) WIRASWASTA 2017"
     },
     "series": [
       {
@@ -4053,7 +4053,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) LAINNYA",
       "yyyy": "2017",
-      "index": "(L) LAINNYA 2017"
+      "title": "(L) LAINNYA 2017"
     },
     "series": [
       {
@@ -4076,7 +4076,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) LAINNYA",
       "yyyy": "2017",
-      "index": "(P) LAINNYA 2017"
+      "title": "(P) LAINNYA 2017"
     },
     "series": [
       {
