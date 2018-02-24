@@ -3,7 +3,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) BELUM/TIDAK BEKERJA",
+      "title": "(L) BELUM/TIDAK BEKERJA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -34,7 +34,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) BELUM/TIDAK BEKERJA",
+      "title": "(P) BELUM/TIDAK BEKERJA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -65,7 +65,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) MENGURUS RUMAH TANGGA",
+      "title": "(L) MENGURUS RUMAH TANGGA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -96,7 +96,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) MENGURUS RUMAH TANGGA",
+      "title": "(P) MENGURUS RUMAH TANGGA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -127,7 +127,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PELAJAR/MAHASISWA",
+      "title": "(L) PELAJAR/MAHASISWA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -158,7 +158,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PELAJAR/MAHASISWA",
+      "title": "(P) PELAJAR/MAHASISWA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -189,7 +189,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PENSIUN",
+      "title": "(L) PENSIUN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -220,7 +220,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PENSIUN",
+      "title": "(P) PENSIUN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -251,7 +251,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PNS",
+      "title": "(L) PNS",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -282,7 +282,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PNS",
+      "title": "(P) PNS",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -313,7 +313,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) TNI",
+      "title": "(L) TNI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -344,7 +344,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) TNI",
+      "title": "(P) TNI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -375,7 +375,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) KEPOLISIAN",
+      "title": "(L) KEPOLISIAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -406,7 +406,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) KEPOLISIAN",
+      "title": "(P) KEPOLISIAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -437,7 +437,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PERDAGANGAN",
+      "title": "(L) PERDAGANGAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -468,7 +468,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PERDAGANGAN",
+      "title": "(P) PERDAGANGAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -499,7 +499,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PETANI/PEKEBUN",
+      "title": "(L) PETANI/PEKEBUN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -530,7 +530,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PETANI/PEKEBUN",
+      "title": "(P) PETANI/PEKEBUN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -561,7 +561,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PETERNAK",
+      "title": "(L) PETERNAK",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -592,7 +592,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PETERNAK",
+      "title": "(P) PETERNAK",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -623,7 +623,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) NELAYAN/PERIKANAN",
+      "title": "(L) NELAYAN/PERIKANAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -654,7 +654,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) NELAYAN/PERIKANAN",
+      "title": "(P) NELAYAN/PERIKANAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -685,7 +685,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) INDUSTRI",
+      "title": "(L) INDUSTRI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -716,7 +716,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) INDUSTRI",
+      "title": "(P) INDUSTRI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -747,7 +747,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) KONSTRUKSI",
+      "title": "(L) KONSTRUKSI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -778,7 +778,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) KONSTRUKSI",
+      "title": "(P) KONSTRUKSI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -809,7 +809,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) TRANSPORTASI",
+      "title": "(L) TRANSPORTASI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -840,7 +840,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) TRANSPORTASI",
+      "title": "(P) TRANSPORTASI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -871,7 +871,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) KARYAWAN SWASTA",
+      "title": "(L) KARYAWAN SWASTA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -902,7 +902,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) KARYAWAN SWASTA",
+      "title": "(P) KARYAWAN SWASTA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -933,7 +933,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) KARYAWAN BUMN",
+      "title": "(L) KARYAWAN BUMN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -964,7 +964,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) KARYAWAN BUMN",
+      "title": "(P) KARYAWAN BUMN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -995,7 +995,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) KARYAWAN BUMD",
+      "title": "(L) KARYAWAN BUMD",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1026,7 +1026,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) KARYAWAN BUMD",
+      "title": "(P) KARYAWAN BUMD",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1057,7 +1057,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) KARYAWAN HONORER",
+      "title": "(L) KARYAWAN HONORER",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1088,7 +1088,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) KARYAWAN HONORER",
+      "title": "(P) KARYAWAN HONORER",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1119,7 +1119,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) BURUH HARIAN LEPAS",
+      "title": "(L) BURUH HARIAN LEPAS",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1150,7 +1150,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) BURUH HARIAN LEPAS",
+      "title": "(P) BURUH HARIAN LEPAS",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1181,7 +1181,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) BURUH TANI PERKEBUNAN",
+      "title": "(L) BURUH TANI PERKEBUNAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1212,7 +1212,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) BURUH TANI PERKEBUNAN",
+      "title": "(P) BURUH TANI PERKEBUNAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1243,7 +1243,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) BURUH NELAYAN PERIKANAN",
+      "title": "(L) BURUH NELAYAN PERIKANAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1274,7 +1274,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) BURUH NELAYAN PERIKANAN",
+      "title": "(P) BURUH NELAYAN PERIKANAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1305,7 +1305,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) BURUH PERTERNAKAN",
+      "title": "(L) BURUH PERTERNAKAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1336,7 +1336,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) BURUH PERTERNAKAN",
+      "title": "(P) BURUH PERTERNAKAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1367,7 +1367,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PEMBANTU RUMAH TANGGA",
+      "title": "(L) PEMBANTU RUMAH TANGGA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1398,7 +1398,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PEMBANTU RUMAH TANGGA",
+      "title": "(P) PEMBANTU RUMAH TANGGA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1429,7 +1429,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) TUKANG CUKUR",
+      "title": "(L) TUKANG CUKUR",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1460,7 +1460,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) TUKANG CUKUR",
+      "title": "(P) TUKANG CUKUR",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1491,7 +1491,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) TUKANG LISTRIK",
+      "title": "(L) TUKANG LISTRIK",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1522,7 +1522,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) TUKANG LISTRIK",
+      "title": "(P) TUKANG LISTRIK",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1553,7 +1553,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) TUKANG BATU",
+      "title": "(L) TUKANG BATU",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1584,7 +1584,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) TUKANG BATU",
+      "title": "(P) TUKANG BATU",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1615,7 +1615,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) TUKANG KAYU",
+      "title": "(L) TUKANG KAYU",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1646,7 +1646,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) TUKANG KAYU",
+      "title": "(P) TUKANG KAYU",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1677,7 +1677,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) TUKANG SOL SEPATU",
+      "title": "(L) TUKANG SOL SEPATU",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1708,7 +1708,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) TUKANG SOL SEPATU",
+      "title": "(P) TUKANG SOL SEPATU",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1739,7 +1739,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) TUKANG LAS/PANDAI BESI",
+      "title": "(L) TUKANG LAS/PANDAI BESI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1770,7 +1770,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) TUKANG LAS/PANDAI BESI",
+      "title": "(P) TUKANG LAS/PANDAI BESI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1801,7 +1801,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) TUKANG JAHIT",
+      "title": "(L) TUKANG JAHIT",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1832,7 +1832,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) TUKANG JAHIT",
+      "title": "(P) TUKANG JAHIT",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1863,7 +1863,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) TUKANG GIGI",
+      "title": "(L) TUKANG GIGI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1894,7 +1894,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) TUKANG GIGI",
+      "title": "(P) TUKANG GIGI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1925,7 +1925,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PENATA RIAS",
+      "title": "(L) PENATA RIAS",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1956,7 +1956,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PENATA RIAS",
+      "title": "(P) PENATA RIAS",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -1987,7 +1987,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PENATA BUSANA",
+      "title": "(L) PENATA BUSANA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2018,7 +2018,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PENATA BUSANA",
+      "title": "(P) PENATA BUSANA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2049,7 +2049,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PENATA RAMBUT",
+      "title": "(L) PENATA RAMBUT",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2080,7 +2080,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PENATA RAMBUT",
+      "title": "(P) PENATA RAMBUT",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2111,7 +2111,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) MEKANIK",
+      "title": "(L) MEKANIK",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2142,7 +2142,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) MEKANIK",
+      "title": "(P) MEKANIK",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2173,7 +2173,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) SENIMAN",
+      "title": "(L) SENIMAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2204,7 +2204,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) SENIMAN",
+      "title": "(P) SENIMAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2235,7 +2235,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) TABIB",
+      "title": "(L) TABIB",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2266,7 +2266,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) TABIB",
+      "title": "(P) TABIB",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2297,7 +2297,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PARAJI",
+      "title": "(L) PARAJI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2328,7 +2328,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PARAJI",
+      "title": "(P) PARAJI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2359,7 +2359,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PERANCANG BUSANAN",
+      "title": "(L) PERANCANG BUSANAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2390,7 +2390,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PERANCANG BUSANAN",
+      "title": "(P) PERANCANG BUSANAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2421,7 +2421,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PENTERJEMAH",
+      "title": "(L) PENTERJEMAH",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2452,7 +2452,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PENTERJEMAH",
+      "title": "(P) PENTERJEMAH",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2483,7 +2483,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) IMAM MESJID",
+      "title": "(L) IMAM MESJID",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2514,7 +2514,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) IMAM MESJID",
+      "title": "(P) IMAM MESJID",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2545,7 +2545,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PENDETA",
+      "title": "(L) PENDETA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2576,7 +2576,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PENDETA",
+      "title": "(P) PENDETA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2607,7 +2607,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PASTOR",
+      "title": "(L) PASTOR",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2638,7 +2638,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PASTOR",
+      "title": "(P) PASTOR",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2669,7 +2669,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) WARTAWAN",
+      "title": "(L) WARTAWAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2700,7 +2700,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) WARTAWAN",
+      "title": "(P) WARTAWAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2731,7 +2731,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) USTADZ/MUBALIGH",
+      "title": "(L) USTADZ/MUBALIGH",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2762,7 +2762,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) USTADZ/MUBALIGH",
+      "title": "(P) USTADZ/MUBALIGH",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2793,7 +2793,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) JURU MASAK",
+      "title": "(L) JURU MASAK",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2824,7 +2824,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) JURU MASAK",
+      "title": "(P) JURU MASAK",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2855,7 +2855,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PROMOTOR ACARA",
+      "title": "(L) PROMOTOR ACARA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2886,7 +2886,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PROMOTOR ACARA",
+      "title": "(P) PROMOTOR ACARA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2917,7 +2917,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) ANGGOTA DPR RI",
+      "title": "(L) ANGGOTA DPR RI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2948,7 +2948,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) ANGGOTA DPR RI",
+      "title": "(P) ANGGOTA DPR RI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -2979,7 +2979,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) ANGGOTA DPD",
+      "title": "(L) ANGGOTA DPD",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3010,7 +3010,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) ANGGOTA DPD",
+      "title": "(P) ANGGOTA DPD",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3041,7 +3041,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) ANGGOTA BPK",
+      "title": "(L) ANGGOTA BPK",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3072,7 +3072,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) ANGGOTA BPK",
+      "title": "(P) ANGGOTA BPK",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3103,7 +3103,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PRESIDEN",
+      "title": "(L) PRESIDEN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3134,7 +3134,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PRESIDEN",
+      "title": "(P) PRESIDEN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3165,7 +3165,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) WAKIL PRESIDEN",
+      "title": "(L) WAKIL PRESIDEN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3196,7 +3196,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) WAKIL PRESIDEN",
+      "title": "(P) WAKIL PRESIDEN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3227,7 +3227,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) ANGGOTA MAHKAMAH KONSTITUSI",
+      "title": "(L) ANGGOTA MAHKAMAH KONSTITUSI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3258,7 +3258,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) ANGGOTA MAHKAMAH KONSTITUSI",
+      "title": "(P) ANGGOTA MAHKAMAH KONSTITUSI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3289,7 +3289,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) ANGGOTA KABINET/KEMENTERIAN ",
+      "title": "(L) ANGGOTA KABINET/KEMENTERIAN ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3320,7 +3320,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) ANGGOTA KABINET/KEMENTERIAN ",
+      "title": "(P) ANGGOTA KABINET/KEMENTERIAN ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3351,7 +3351,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) DUTA BESAR ",
+      "title": "(L) DUTA BESAR ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3382,7 +3382,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) DUTA BESAR ",
+      "title": "(P) DUTA BESAR ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3413,7 +3413,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) GUBERNUR ",
+      "title": "(L) GUBERNUR ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3444,7 +3444,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) GUBERNUR ",
+      "title": "(P) GUBERNUR ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3475,7 +3475,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) WAKIL GUBERNUR ",
+      "title": "(L) WAKIL GUBERNUR ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3506,7 +3506,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) WAKIL GUBERNUR ",
+      "title": "(P) WAKIL GUBERNUR ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3537,7 +3537,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) BUPATI ",
+      "title": "(L) BUPATI ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3568,7 +3568,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) BUPATI ",
+      "title": "(P) BUPATI ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3599,7 +3599,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) WAKIL BUPATI ",
+      "title": "(L) WAKIL BUPATI ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3630,7 +3630,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) WAKIL BUPATI ",
+      "title": "(P) WAKIL BUPATI ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3661,7 +3661,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) WALI KOTA ",
+      "title": "(L) WALI KOTA ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3692,7 +3692,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) WALI KOTA ",
+      "title": "(P) WALI KOTA ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3723,7 +3723,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) WAKIL WALI KOTA ",
+      "title": "(L) WAKIL WALI KOTA ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3754,7 +3754,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) WAKIL WALI KOTA ",
+      "title": "(P) WAKIL WALI KOTA ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3785,7 +3785,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) ANGGOTA DPRD PROVINSI ",
+      "title": "(L) ANGGOTA DPRD PROVINSI ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3816,7 +3816,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) ANGGOTA DPRD PROVINSI ",
+      "title": "(P) ANGGOTA DPRD PROVINSI ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3847,7 +3847,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) ANGGOTA DPRD KABUPATEN/KOTA ",
+      "title": "(L) ANGGOTA DPRD KABUPATEN/KOTA ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3878,7 +3878,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) ANGGOTA DPRD KABUPATEN/KOTA",
+      "title": "(P) ANGGOTA DPRD KABUPATEN/KOTA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3909,7 +3909,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) DOSEN ",
+      "title": "(L) DOSEN ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3940,7 +3940,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) DOSEN",
+      "title": "(P) DOSEN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -3971,7 +3971,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) GURU ",
+      "title": "(L) GURU ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4002,7 +4002,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) GURU",
+      "title": "(P) GURU",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4033,7 +4033,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PILOT ",
+      "title": "(L) PILOT ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4064,7 +4064,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PILOT",
+      "title": "(P) PILOT",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4095,7 +4095,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PENGACARA ",
+      "title": "(L) PENGACARA ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4126,7 +4126,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PENGACARA",
+      "title": "(P) PENGACARA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4157,7 +4157,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) NOTARIS ",
+      "title": "(L) NOTARIS ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4188,7 +4188,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) NOTARIS",
+      "title": "(P) NOTARIS",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4219,7 +4219,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) ARSITEK ",
+      "title": "(L) ARSITEK ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4250,7 +4250,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) ARSITEK",
+      "title": "(P) ARSITEK",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4281,7 +4281,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) AKUNTAN ",
+      "title": "(L) AKUNTAN ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4312,7 +4312,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) AKUNTAN",
+      "title": "(P) AKUNTAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4343,7 +4343,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) KONSULTAN ",
+      "title": "(L) KONSULTAN ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4374,7 +4374,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) KONSULTAN",
+      "title": "(P) KONSULTAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4405,7 +4405,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) DOKTER ",
+      "title": "(L) DOKTER ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4436,7 +4436,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) DOKTER",
+      "title": "(P) DOKTER",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4467,7 +4467,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) BIDAN ",
+      "title": "(L) BIDAN ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4498,7 +4498,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) BIDAN",
+      "title": "(P) BIDAN",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4529,7 +4529,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PERAWAT ",
+      "title": "(L) PERAWAT ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4560,7 +4560,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PERAWAT",
+      "title": "(P) PERAWAT",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4591,7 +4591,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) APOTEKER ",
+      "title": "(L) APOTEKER ",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4622,7 +4622,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) APOTEKER",
+      "title": "(P) APOTEKER",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4653,7 +4653,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PSIKIATER/PSIKOLOG",
+      "title": "(L) PSIKIATER/PSIKOLOG",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4684,7 +4684,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PSIKIATER/PSIKOLOG",
+      "title": "(P) PSIKIATER/PSIKOLOG",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4715,7 +4715,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PENYIAR TELEVISI",
+      "title": "(L) PENYIAR TELEVISI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4746,7 +4746,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PENYIAR TELEVISI",
+      "title": "(P) PENYIAR TELEVISI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4777,7 +4777,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PENYIAR RADIO",
+      "title": "(L) PENYIAR RADIO",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4808,7 +4808,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PENYIAR RADIO",
+      "title": "(P) PENYIAR RADIO",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4839,7 +4839,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PELAUT",
+      "title": "(L) PELAUT",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4870,7 +4870,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PELAUT",
+      "title": "(P) PELAUT",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4901,7 +4901,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PENELITI",
+      "title": "(L) PENELITI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4932,7 +4932,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PENELITI",
+      "title": "(P) PENELITI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4963,7 +4963,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) SOPIR",
+      "title": "(L) SOPIR",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -4994,7 +4994,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) SOPIR",
+      "title": "(P) SOPIR",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5025,7 +5025,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PIALANG",
+      "title": "(L) PIALANG",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5056,7 +5056,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PIALANG",
+      "title": "(P) PIALANG",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5087,7 +5087,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PARANORMAL",
+      "title": "(L) PARANORMAL",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5118,7 +5118,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PARANORMAL",
+      "title": "(P) PARANORMAL",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5149,7 +5149,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PEDAGANG",
+      "title": "(L) PEDAGANG",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5180,7 +5180,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PEDAGANG",
+      "title": "(P) PEDAGANG",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5211,7 +5211,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) PERANGKAT DESA",
+      "title": "(L) PERANGKAT DESA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5242,7 +5242,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) PERANGKAT DESA",
+      "title": "(P) PERANGKAT DESA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5273,7 +5273,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) KEPALA DESA",
+      "title": "(L) KEPALA DESA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5304,7 +5304,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) KEPALA DESA",
+      "title": "(P) KEPALA DESA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5335,7 +5335,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) BIARAWATI",
+      "title": "(L) BIARAWATI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5366,7 +5366,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) BIARAWATI",
+      "title": "(P) BIARAWATI",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5397,7 +5397,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) WIRASWASTA",
+      "title": "(L) WIRASWASTA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5428,7 +5428,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) WIRASWASTA",
+      "title": "(P) WIRASWASTA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5459,7 +5459,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(L) LAINNYA",
+      "title": "(L) LAINNYA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -5490,7 +5490,7 @@
     "xAxis": {
       "category": "Jumlah Penduduk Jenis Pekerjaan",
       "region": "Banten",
-      "name": "(P) LAINNYA",
+      "title": "(P) LAINNYA",
       "data": [
         "PANDEGLANG",
         "LEBAK",
