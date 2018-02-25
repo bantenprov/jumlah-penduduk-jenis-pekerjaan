@@ -1,6 +1,8 @@
 <template>
   <div>
-
+    <div class="alert alert-info">
+      Jumlah Penduduk Jenis Pekerjaan
+    </div>
     <div class="row">
       <div class="col-lg-6 mb-3">
         <div class="card h-100" style="color: #fff; background-color: #2196F3;">
@@ -25,7 +27,7 @@
         <div class="card h-100" style="color: #fff; background-color: #009688;">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Anggaran dan Penyereapan Berdasarkan OPD
+            Jumlah Penduduk Jenis Pekerjaan
           </div>
           <div class="card-body">
             <jumlah-penduduk-jenis-pekerjaan-bar-01></jumlah-penduduk-jenis-pekerjaan-bar-01>
@@ -36,7 +38,7 @@
         <div class="card h-100" style="color: #fff; background-color: #FF9800;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Anggaran dan Penyereapan Berdasarkan OPD
+            Jumlah Penduduk Jenis Pekerjaan
           </div>
           <div class="card-body">
             <jumlah-penduduk-jenis-pekerjaan-pie-01></jumlah-penduduk-jenis-pekerjaan-pie-01>
@@ -52,7 +54,7 @@
         <div class="card h-100" style="color: #fff; background-color: #F44336;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Anggaran dan penyerapan per bulan tiap OPD
+            Jumlah Penduduk Jenis Pekerjaan
           </div>
           <div class="card-body">
             <jumlah-penduduk-jenis-pekerjaan-pie-02></jumlah-penduduk-jenis-pekerjaan-pie-02>
@@ -63,7 +65,7 @@
         <div class="card text-white bg-dark h-100">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Anggaran dan penyerapan per bulan tiap OPD
+            Jumlah Penduduk Jenis Pekerjaan
           </div>
           <div class="card-body">
             <jumlah-penduduk-jenis-pekerjaan-bar-02></jumlah-penduduk-jenis-pekerjaan-bar-02>
